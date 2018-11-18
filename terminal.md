@@ -56,6 +56,8 @@ happy
 `touch` command creates a file
 ```
 $ touch test/testy
+$ ls test
+happy  testy
 ```
 - To check if something is a file or a directory, type `file`
 ```
