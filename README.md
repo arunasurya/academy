@@ -12,11 +12,23 @@ Where you learn about my learning process of technology.
 
 ### If you have a mac, how can you start a terminal?
 
-- start the Terminal app 
-- go to spotlight and type "terminal" 
+- start the Terminal app (go to spotlight and type "terminal") 
 - pre-installed on every mac
 - you will see some text that ends with a `$` sign
 - you can type your commands there
+
+### Useful commands
+
+- `whoami` command shows the name of the current user
+```
+$ whoami
+aruna
+```
+- `pwd` shows the directory you are currently in (present working directory)
+```
+$ pwd
+/Users/aruna
+```
 
 
 
