@@ -15,5 +15,8 @@ Where you learn about my learning process of technology.
 - start the Terminal app 
 - go to spotlight and type "terminal" 
 - pre-installed on every mac
+- you will see some text that ends with a `$` sign
+- you can type your commands there
+
 
 
