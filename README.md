@@ -29,6 +29,18 @@ aruna
 $ pwd
 /Users/aruna
 ```
-
-
+- `ls` shows the files in the current directory
+```
+$ ls
+Desktop  Documents  Downloads  Library	Movies	Music  Pictures  Public  src
+```
+- `cd` lets you switch to a new directory (change directory) 
+```
+$ cd src
+$ ls
+github.com
+$ cd github.com/
+$ ls
+arunasurya  bitcoin 
+```
 
