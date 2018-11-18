@@ -48,6 +48,7 @@ $ pwd
 
 `mkdir` creates a directory
 ```
+$ mkdir test
 $ mkdir test/happy
 $ ls test/
 happy
