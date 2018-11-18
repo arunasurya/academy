@@ -41,3 +41,15 @@ arunasurya  bitcoin
 $ pwd
 /Users/aruna/src/github.com
 ```
+
+### File vs. directory
+
+- All files in a family of operating systems such as UNIX are in a tree like structure
+
+`mkdir` creates a directory
+```
+$ mkdir test
+$ ls
+arunasurya  bitcoin  test
+```
+
