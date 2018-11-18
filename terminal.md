@@ -48,8 +48,18 @@ $ pwd
 
 `mkdir` creates a directory
 ```
-$ mkdir test
-$ ls
-arunasurya  bitcoin  test
+$ mkdir test/happy
+$ ls test/
+happy
 ```
-
+`touch` command creates a file
+```
+$ touch test/testy
+```
+- To check if something is a file or a directory, type `file`
+```
+$ file test/happy
+test/happy: directory
+$ file test/testy
+test/testy: empty 
+```
