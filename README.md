@@ -41,6 +41,8 @@ $ ls
 github.com
 $ cd github.com/
 $ ls
-arunasurya  bitcoin 
+arunasurya  bitcoin
+$ pwd
+/Users/aruna/src/github.com
 ```
 
