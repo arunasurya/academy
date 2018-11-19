@@ -15,6 +15,8 @@
 
 ### Useful commands
 
+- each command has one standard input (STDIN), one standard output (STDOUT) and one standard error (STDERR)
+
 - `whoami` command shows the name of the current user
 ```
 $ whoami
@@ -61,7 +63,8 @@ $ touch test/testy
 $ ls test
 happy  testy
 ```
-- To check if something is a file or a directory, type `file`
+- to check if something is a file or a directory, type `file`
+- 'file' will also tell you if a file is empty or not
 ```
 $ file test/happy
 test/happy: directory
@@ -79,5 +82,11 @@ $ tree
 
 3 directories, 1 file
 ```
+`echo` command echoes arguments into its standard output
+```
+$ echo hello
+hello
+```
+
 
 
