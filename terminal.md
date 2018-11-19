@@ -68,4 +68,16 @@ test/happy: directory
 $ file test/testy
 test/testy: empty 
 ```
+`tree` commands allows you to see a subtree of the current directory
+```
+$ tree 
+.
+├── happy
+├── test.test
+│   └── chipmunk
+└── testy
+
+3 directories, 1 file
+```
+
 
