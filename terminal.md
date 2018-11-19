@@ -72,7 +72,7 @@ test/happy: directory
 $ file test/testy
 test/testy: empty 
 ```
-`tree` commands allows you to see a subtree of the current directory
+`tree` command allows you to see a subtree of the current directory
 ```
 $ tree 
 .
