@@ -45,6 +45,8 @@ $ pwd
 ### File vs. directory
 
 - all files and directories in systems such as UNIX are in a tree like structure
+- there is no fundamental difference between a file and a directory
+- there is some metadata that tells the operating system if something is a file or a directory
 
 `mkdir` creates a directory
 ```
@@ -66,3 +68,4 @@ test/happy: directory
 $ file test/testy
 test/testy: empty 
 ```
+
