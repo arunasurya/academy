@@ -52,6 +52,7 @@ $ pwd
 
 `mkdir` creates a directory
 - anything that follows a command and is separated by space is an argument
+- 'test' is the only argument of 'mkdir` in the example below
 ```
 $ mkdir test
 $ mkdir test/happy
