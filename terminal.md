@@ -51,6 +51,7 @@ $ pwd
 - there is some metadata that tells the operating system if something is a file or a directory
 
 `mkdir` creates a directory
+- anything that follows a command and is separated by space is an argument
 ```
 $ mkdir test
 $ mkdir test/happy
@@ -87,6 +88,12 @@ $ tree
 $ echo hello
 hello
 ```
-
+- to write simple messages into a file, you can use `echo` and redirect its standard output into a file
+- use the `cat` command to see what is inside the file
+```
+$ echo hello aruna > testy
+$ cat testy
+hello aruna
+```
 
 
