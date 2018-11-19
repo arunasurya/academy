@@ -52,7 +52,7 @@ $ pwd
 
 `mkdir` creates a directory
 - anything that follows a command and is separated by space is an argument
-- 'test' is the only argument of 'mkdir` in the example below
+- `test` is the only argument of 'mkdir` in the example below
 ```
 $ mkdir test
 $ mkdir test/happy
@@ -89,7 +89,7 @@ $ tree
 $ echo hello
 hello
 ```
-- to write simple messages into a file, you can use `echo` and redirect its standard output into a file
+- to write simple messages into a file, you can use `echo` and redirect its standard output into a file (such as testy)
 - use the `cat` command to see what is inside the file
 ```
 $ echo hello aruna > testy
