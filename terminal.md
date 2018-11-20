@@ -96,5 +96,12 @@ $ echo hello aruna > testy
 $ cat testy
 hello aruna
 ```
+Using `echo` in this way will replace the contents of the file. If you want to append text to the file, you can use it like this:
+```
+$ echo howdy! >> testy
+$ cat testy
+hello aruna
+howdy!
+```
 
 
