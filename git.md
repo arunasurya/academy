@@ -4,17 +4,27 @@
 - consists of repos
 - a repo contains a set of files and their historical state
 
-- to start working with git, you can either create a new repo or clone an existing one
+To start working with git, you can either create a new repo or clone an existing one.
 - to clone with SSH, you need to do the following:
   - create an SSH key pair (public-private)
   - share the public key with the remote (e.g., github)
   - add the private key to your SSH agent for authentication
-- repos are remote or local
-- local repos are on your computer or server
 
-Basic commands
+Repos can either be remote or local; local repos are on your computer.
+In this case, remote repos are on github.com.
+
+## Basic commands
 
 `git clone` lets you clone a remote repo
-
+- you get the name of the repo
 ```
-
+$ git clone git@github.com:arunasurya/academy.git
+Cloning into 'academy'...
+Warning: Permanently added the RSA host key for IP address '140.82.118.3' to the list of known hosts.
+remote: Enumerating objects: 79, done.
+remote: Counting objects: 100% (79/79), done.
+remote: Compressing objects: 100% (78/78), done.
+remote: Total 79 (delta 39), reused 0 (delta 0), pack-reused 0
+Receiving objects: 100% (79/79), 21.50 KiB | 262.00 KiB/s, done.
+Resolving deltas: 100% (39/39), done.
+```
