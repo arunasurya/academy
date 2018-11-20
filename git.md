@@ -9,3 +9,12 @@
   - create an SSH key pair (public-private)
   - share the public key with the remote (e.g., github)
   - add the private key to your SSH agent for authentication
+- repos are remote or local
+- local repos are on your computer or server
+
+Basic commands
+
+`git clone` lets you clone a remote repo
+
+```
+
