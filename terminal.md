@@ -27,12 +27,18 @@ aruna
 $ pwd
 /Users/aruna
 ```
+`~` means your home directory
+
 - `ls` shows the files in the current directory
+-  if `ls` is followed by an argument that is a directory, it shows what is in that directory
 ```
 $ ls
 Desktop  Documents  Downloads  Library	Movies	Music  Pictures  Public  src
+$ ls Music
+iTunes
 ```
 - `cd` lets you switch to a new directory (change directory) 
+- if you type `cd` without any argument, the command takes you to your home directory
 ```
 $ cd src
 $ ls
@@ -42,6 +48,9 @@ $ ls
 arunasurya  bitcoin
 $ pwd
 /Users/aruna/src/github.com
+$ cd
+$ pwd
+/Users/aruna
 ```
 
 ### File vs. directory
@@ -103,5 +112,4 @@ $ cat testy
 hello aruna
 howdy!
 ```
-
 
