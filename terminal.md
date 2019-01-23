@@ -60,7 +60,7 @@ $ pwd
 - there is no fundamental difference between a file and a directory
 - there is some metadata that tells the operating system if something is a file or a directory
 
-`mkdir` creates a directory
+`mkdir` creates a directory, within the current directory
 - `test` is the only argument of 'mkdir` in the example below
 ```
 $ mkdir test
