@@ -16,6 +16,7 @@
 ### Useful commands
 
 - each command has one standard input (STDIN), one standard output (STDOUT) and one standard error (STDERR)
+- anything that follows a command and is separated by space is an argument
 
 - `whoami` command shows the name of the current user
 ```
@@ -60,7 +61,6 @@ $ pwd
 - there is some metadata that tells the operating system if something is a file or a directory
 
 `mkdir` creates a directory
-- anything that follows a command and is separated by space is an argument
 - `test` is the only argument of 'mkdir` in the example below
 ```
 $ mkdir test
