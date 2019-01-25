@@ -2,7 +2,9 @@
 
 - a distributed revision control system
 - consists of repos
-- a repo contains a set of files and their historical state
+- a repo is a directory who contents are tracked by git
+- it contains a set of files and their historical state
+- a set of changes is captured in a commit
 
 To start working with git, you can either create a new repo or clone an existing one.
 - to clone with SSH, you need to do the following:
