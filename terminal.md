@@ -16,6 +16,7 @@
 ### Useful commands
 
 - each command has one standard input (STDIN), one standard output (STDOUT) and one standard error (STDERR)
+- anything that follows a command and is separated by space is an argument
 
 - `whoami` command shows the name of the current user
 ```
@@ -27,12 +28,18 @@ aruna
 $ pwd
 /Users/aruna
 ```
+`~` means your home directory
+
 - `ls` shows the files in the current directory
+-  if `ls` is followed by an argument that is a directory, it shows what is in that directory
 ```
 $ ls
 Desktop  Documents  Downloads  Library	Movies	Music  Pictures  Public  src
+$ ls Music
+iTunes
 ```
 - `cd` lets you switch to a new directory (change directory) 
+- if you type `cd` without any argument, the command takes you to your home directory
 ```
 $ cd src
 $ ls
@@ -42,6 +49,9 @@ $ ls
 arunasurya  bitcoin
 $ pwd
 /Users/aruna/src/github.com
+$ cd
+$ pwd
+/Users/aruna
 ```
 
 ### File vs. directory
@@ -50,8 +60,7 @@ $ pwd
 - there is no fundamental difference between a file and a directory
 - there is some metadata that tells the operating system if something is a file or a directory
 
-`mkdir` creates a directory
-- anything that follows a command and is separated by space is an argument
+`mkdir` creates a directory, within the current directory
 - `test` is the only argument of 'mkdir` in the example below
 ```
 $ mkdir test
@@ -103,5 +112,4 @@ $ cat testy
 hello aruna
 howdy!
 ```
-
 
