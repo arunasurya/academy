@@ -36,7 +36,7 @@ Resolving deltas: 100% (39/39), done.
 - before starting any new work, use `git status` to check the status of your repo
 - in this case, there were no changes on branch git
 ```
-$ git statuts
+$ git status
 On branch git
 nothing to commit, working tree clean
 ```
