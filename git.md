@@ -53,26 +53,6 @@ Changes not staged for commit:
 no changes added to commit (use "git add" and/or "git commit -a"
 ```
 - use `git diff` to see what the exact change was
-- all the additions to the document will be shown in green
-```
-+- if there was a change in the repo, you can use `git diff` to see what it was
-+
-+```
-+$ git status
-+On branch git
-+Changes not staged for commit:
-+  (use "git add <file>..." to update what will be committed)
-+  (use "git checkout -- <file>..." to discard changes in working directory)
-+
-+        modified:   git.md
-+
-+no changes added to commit (use "git add" and/or "git commit -a"
-+```
 
--if you are happy with the changes, it is best to save them in your local repo
+- if you are happy with the changes, it is best to save them in your local repo
 - use `git commit` with an argument `-am` and a simple decription of the commit
-```
-$ git commit -am "Add git diff command with an example"
-[git 4ce0268] Add git diff command with an example
- 1 file changed, 28 insertions(+)
-```
