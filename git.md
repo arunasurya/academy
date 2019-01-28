@@ -32,3 +32,11 @@ remote: Total 79 (delta 39), reused 0 (delta 0), pack-reused 0
 Receiving objects: 100% (79/79), 21.50 KiB | 262.00 KiB/s, done.
 Resolving deltas: 100% (39/39), done.
 ```
+- now this repo is local on you computer
+- before starting any new work, use `git status` to check the status of your repo
+- in this case, there were no changes on branch git
+```
+$ git statuts
+On branch git
+nothing to commit, working tree clean
+```
