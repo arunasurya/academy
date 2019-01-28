@@ -40,3 +40,31 @@ $ git statuts
 On branch git
 nothing to commit, working tree clean
 ```
+- if there was a change in the repo, you will see the name of the modified file
+```
+$ git status
+On branch git
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+        modified:   git.md
+
+no changes added to commit (use "git add" and/or "git commit -a"
+```
+- use `git diff` to see what the exact change was
+- all the additions to the document will be shown in green
+```
++- if there was a change in the repo, you can use `git diff` to see what it was
++
++```
++$ git status
++On branch git
++Changes not staged for commit:
++  (use "git add <file>..." to update what will be committed)
++  (use "git checkout -- <file>..." to discard changes in working directory)
++
++        modified:   git.md
++
++no changes added to commit (use "git add" and/or "git commit -a"
++```
