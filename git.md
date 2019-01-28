@@ -68,3 +68,11 @@ no changes added to commit (use "git add" and/or "git commit -a"
 +
 +no changes added to commit (use "git add" and/or "git commit -a"
 +```
+
+-if you are happy with the changes, it is best to save them in your local repo
+- use `git commit` with an argument `-am` and a simple decription of the commit
+```
+$ git commit -am "Add git diff command with an example"
+[git 4ce0268] Add git diff command with an example
+ 1 file changed, 28 insertions(+)
+```
