@@ -33,8 +33,17 @@ Receiving objects: 100% (79/79), 21.50 KiB | 262.00 KiB/s, done.
 Resolving deltas: 100% (39/39), done.
 ```
 - now this repo is local on your computer
-- to learn of any changes made on the remote repo after cloning it, use `git fetch` 
-
+- to learn of any changes made on the remote repo after cloning it, use `git fetch`
+```
+$ git fetch
+remote: Enumerating objects: 5, done.
+remote: Counting objects: 100% (5/5), done.
+remote: Compressing objects: 100% (3/3), done.
+remote: Total 3 (delta 2), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (3/3), done.
+From github.com:arunasurya/academy
+   72d79b0..7563e27  master     -> origin/master
+```
 - each repo has at least one branch; its default branch is `master`
 - you can check what branch you are on by typing 'git branch'
 
