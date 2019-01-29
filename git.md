@@ -33,6 +33,13 @@ Receiving objects: 100% (79/79), 21.50 KiB | 262.00 KiB/s, done.
 Resolving deltas: 100% (39/39), done.
 ```
 - now this repo is local on your computer
+- each repo has at least one branch; its default branch is `master`
+- you can check what branch you are on by typing 'git branch'
+```
+$ git branch
+* master
+```
+
 - before starting any new work, use `git status` to check the status of your repo
 - in this case, there were no changes on branch git
 ```
