@@ -46,7 +46,7 @@ From github.com:arunasurya/academy
    72d79b0..7563e27  master     -> origin/master
 ```
 
-- use `git merge` to merge those changes into the master branch of your local repo
+- use `git merge` to merge those changes into the current branch of your local repo
 ```
 $ git merge
 Auto-merging git.md
