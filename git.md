@@ -17,9 +17,10 @@ In this case, remote repos are on github.com.
 
 ## Basic commands
 
-`git init` allows you to create a new local repo from scratch
+- `git init` allows you to create a new local repo from scratch
 
-`git clone` lets you clone a remote repo
+- `git clone` lets you clone a remote repo
+
 ```
 $ git clone git@github.com:arunasurya/academy.git
 Cloning into 'academy'...
@@ -31,7 +32,7 @@ remote: Total 79 (delta 39), reused 0 (delta 0), pack-reused 0
 Receiving objects: 100% (79/79), 21.50 KiB | 262.00 KiB/s, done.
 Resolving deltas: 100% (39/39), done.
 ```
-- now this repo is local on your computer
+Now this repo is local on your computer.
 - to learn of any changes made on the remote repo after cloning it, use `git fetch`
 ```
 $ git fetch
@@ -43,6 +44,17 @@ Unpacking objects: 100% (3/3), done.
 From github.com:arunasurya/academy
    72d79b0..7563e27  master     -> origin/master
 ```
+
+- use `git merge` to merge those changes into the master branch of your local repo
+```
+$ git merge
+Auto-merging git.md
+Merge made by the 'recursive' strategy.
+ git.md | 1 -
+ 1 file changed, 1 deletion(-)
+```
+
+- you can also use `git pull` to both fetch and merge any changes
 - each repo has at least one branch; its default branch is `master`
 - you can check what branch you are on by typing 'git branch'
 
