@@ -18,7 +18,6 @@ In this case, remote repos are on github.com.
 ## Basic commands
 
 - `git init` allows you to create a new local repo from scratch
-
 - `git clone` lets you clone a remote repo
 
 ```
@@ -67,14 +66,13 @@ Updating da23ff9..9593959
 Fast-forward
  git.md | 4 +---
  1 file changed, 1 insertion(+), 3 deletions(-)
-```
-- each repo has at least one branch; its default branch is `master`
-- you can check what branch you are on by typing 'git branch'
-
-```
 
 ### Branches
 
+```
+- each repo has at least one branch; its default branch is `master`
+- you can check what branch you are on by typing 'git branch'
+```
 $ git branch
 * master
 ```
