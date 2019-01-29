@@ -33,6 +33,8 @@ Receiving objects: 100% (79/79), 21.50 KiB | 262.00 KiB/s, done.
 Resolving deltas: 100% (39/39), done.
 ```
 - now this repo is local on your computer
+- to learn of any changes made on the remote repo after cloning it, use `git fetch` 
+
 - each repo has at least one branch; its default branch is `master`
 - you can check what branch you are on by typing 'git branch'
 
