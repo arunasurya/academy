@@ -71,7 +71,7 @@ Fast-forward
 ### Branches
 
 - each repo has at least one branch; its default branch is `master`
-- you can check what branch you are on by typing 'git branch'
+- you can check what branch you are on by typing `git branch`
 ```
 $ git branch
 * master
