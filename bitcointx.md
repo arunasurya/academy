@@ -16,7 +16,7 @@ If you want to send bitcoin to someone, you need to create a new transaction.
 
 A transaction output contains the following:
 - value or the amount of Satoshis 
-- scriptPubKey or a lock scripot
+- scriptPubKey or a lock script
 
 A transaction input contains the following:
 - a hash of the previous transaction
