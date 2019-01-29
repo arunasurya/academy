@@ -66,10 +66,10 @@ Updating da23ff9..9593959
 Fast-forward
  git.md | 4 +---
  1 file changed, 1 insertion(+), 3 deletions(-)
+```
 
 ### Branches
 
-```
 - each repo has at least one branch; its default branch is `master`
 - you can check what branch you are on by typing 'git branch'
 ```
