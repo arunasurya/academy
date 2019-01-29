@@ -1,8 +1,8 @@
 # git basics
 
-- a distributed revision control system
+- git is a distributed revision control system
 - consists of repos
-- a repo is a directory who contents are tracked by git
+- a repo is a directory whose contents are tracked by git
 - it contains a set of files and their historical state
 - a set of changes is captured in a commit
 
@@ -20,7 +20,7 @@ In this case, remote repos are on github.com.
 `git init` allows you to create a new local repo from scratch
 
 `git clone` lets you clone a remote repo
-- you get the name of the repo
+
 ```
 $ git clone git@github.com:arunasurya/academy.git
 Cloning into 'academy'...
@@ -35,6 +35,7 @@ Resolving deltas: 100% (39/39), done.
 - now this repo is local on your computer
 - each repo has at least one branch; its default branch is `master`
 - you can check what branch you are on by typing 'git branch'
+
 ```
 $ git branch
 * master
