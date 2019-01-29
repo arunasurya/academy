@@ -20,7 +20,6 @@ In this case, remote repos are on github.com.
 `git init` allows you to create a new local repo from scratch
 
 `git clone` lets you clone a remote repo
-
 ```
 $ git clone git@github.com:arunasurya/academy.git
 Cloning into 'academy'...
