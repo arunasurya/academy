@@ -17,8 +17,8 @@ In this case, remote repos are on github.com.
 
 ## Basic commands
 
-### Starting git
 - `git init` allows you to create a new local repo from scratch
+
 - `git clone` lets you clone a remote repo
 
 ```
@@ -44,6 +44,7 @@ Unpacking objects: 100% (3/3), done.
 From github.com:arunasurya/academy
    72d79b0..7563e27  master     -> origin/master
 ```
+
 - use `git merge` to merge those changes into the master branch of your local repo
 ```
 $ git merge
@@ -53,10 +54,27 @@ Merge made by the 'recursive' strategy.
  1 file changed, 1 deletion(-)
 ```
 - you can also use `git pull` to both fetch and merge any changes
+```
+$ git pull
+remote: Enumerating objects: 5, done.
+remote: Counting objects: 100% (5/5), done.
+remote: Compressing objects: 100% (3/3), done.
+remote: Total 3 (delta 2), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (3/3), done.
+From github.com:arunasurya/academy
+   da23ff9..9593959  master     -> origin/master
+Updating da23ff9..9593959
+Fast-forward
+ git.md | 4 +---
+ 1 file changed, 1 insertion(+), 3 deletions(-)
+```
 - each repo has at least one branch; its default branch is `master`
 - you can check what branch you are on by typing 'git branch'
 
 ```
+
+### Branches
+
 $ git branch
 * master
 ```
