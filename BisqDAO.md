@@ -21,3 +21,4 @@ To undersstand Bitcoin, you need to understand public key cryptography, which is
   - Compensation requests
   - Voting
   - Bonding
+  - Asset listing
