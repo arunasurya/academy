@@ -17,6 +17,8 @@ In this case, remote repos are on github.com.
 
 ## Basic commands
 
+### Starting git
+
 - `git init` allows you to create a new local repo from scratch
 - `git clone` lets you clone a remote repo
 
