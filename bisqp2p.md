@@ -16,13 +16,12 @@ The latter are connected to the Bitcoin network once they start running the Bisq
 In order to join the network, you need to [download the Bisq app](https://bisq.network/downloads/).
 - Bisq is an open-source software that enables you to trade bitcoin for fiat currencies and cryptocurrencies.
 - it contains in-built Bitcoin and Bisq wallets as well as pricing data for bitcoin and other currencies.
-- it allows you to participate in Bisq DAO (make proposals, vote, etc). 
+- it allows you to participate in the Bisq DAO (make proposals, vote, etc). 
 - you can learn more about the app on [the Bisq website](https://docs.bisq.network/getting-started.html)
 
 ## Seed nodes
 - every time the Bisq app gets started, your node gets connected to a seed node.
-- seed nodes run the Bisq software.
-- they connect you to other Bisq nodes.
+- seed nodes run the Bisq software, and they connect you to other Bisq nodes.
 
 ## Bisq BSQ explorer
 [The Bisq BSQ Explorer](https://explorer.bisq.network/index.html) is a Bitcoin full node as well as a Bisq node with a web interface around it.
