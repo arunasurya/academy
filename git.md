@@ -79,13 +79,16 @@ $ git branch
 * master
 ```
 
-- before starting any new work, use `git status` to check the status of your repo
+Before starting any new work, use `git status` to check the status of your repo.
 - in this case, there were no changes on branch git
 ```
 $ git status
-On branch git
+On branch master
+Your branch is up to date with 'origin/master'.
+
 nothing to commit, working tree clean
 ```
+
 - if there was a change in the repo, you will see the name of the modified file
 ```
 $ git status
