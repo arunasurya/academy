@@ -18,7 +18,11 @@ A transaction output contains the following:
 - value (amount in satoshis) 
 - scriptPubKey or a lock script
 
-When you create a transaction output, you set lock conditions (in the lock script). In order to spend that output, one needs to meet those lock conditions.  
+When you create a transaction output, you set lock conditions (in the lock script). In order to spend that output, one needs to meet those lock conditions. A typical lock condition is as follows:
+- here is a hash of the public key. 
+- provide a public key that hashes to that value as well a digital signature. 
+
+You can mathematically prove that a certain private key that has that corresponding public key was used to create the signature. A message you are signing with your private key is the entire transaction (without the signature).
 
 ### Transaction inputs
 
@@ -28,3 +32,5 @@ A transaction input contains the following:
 - scriptSig or an unlock script 
 
 In order to spend an input of a transaction, you need to unlock it by signing with your private key.
+
+In order to use utxos as inputs to a new transaction, you need to provide an unlock script, that when run together with a lock script of that output, validates. 
