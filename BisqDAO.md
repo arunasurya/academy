@@ -15,7 +15,7 @@ To undersstand Bitcoin, you need to understand public key cryptography, which is
 - Bitcoin explorer
 
 ## Bisq
-- [P2P network](https://explorer.bisq.network/index.html)
+- [P2P network](bisqp2p.md)
 - BSQ tokens
 - Governance:
   - Compensation requests
