@@ -88,37 +88,11 @@ Your branch is up to date with 'origin/master'.
 
 nothing to commit, working tree clean
 ```
-
 - if there was a change in the repo, you will see the name of the modified file
-```
-$ git status
-On branch git
-Changes not staged for commit:
-  (use "git add <file>..." to update what will be committed)
-  (use "git checkout -- <file>..." to discard changes in working directory)
 
-        modified:   git.md
-
-no changes added to commit (use "git add" and/or "git commit -a"
-```
 - use `git diff` to see what the exact change was
-```
-$ git diff
-diff --git a/git.md b/git.md
-index 4bab6c1..4241b4b 100644
---- a/git.md
-+++ b/git.md
-@@ -79,13 +79,16 @@ $ git branch
- * master
 
--- before starting any new work, use `git status` to check the status of your repo
-+Before starting any new work, use `git status` to check the status of your repo
-```
-
- - if you are happy with the changes, it is best to save them in your local repo
- - use `git commit` with an argument `-am` and a simple decription of the commit
-+- it is best to commit your changes in small chunks as it is easier to track them
-```
-- if you are happy with your changes, you should save them in your local repo
-- use `git commit` with an argument `-am` and a simple decription of the commit
+- if you are happy with the changes, it is best to save them in your local repo
+- use `git commit` with an argument `-am` and a simple description of the commit
 - it is best to commit your changes in small chunks as it is easier to track them
+
