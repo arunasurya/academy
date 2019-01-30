@@ -9,7 +9,7 @@ To undersstand Bitcoin, you need to understand public key cryptography, which is
 - Digital signatures
 
 ## Bitcoin
-- Bitcoin network
+- [Bitcoin network](btcnetwork.md)
 - [Bitcoin transactions](bitcointx.md)
 - Bitcoin blockchain
 - Bitcoin explorer
