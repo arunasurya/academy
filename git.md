@@ -1,13 +1,13 @@
 # git basics
 
 - git is a distributed revision control system
-- consists of repos
+- it consists of repos
 - a repo is a directory whose contents are tracked by git
-- it contains a set of files and their historical state
+- a repo contains a set of files and their historical state
 - a set of changes is captured in a commit
 
 To start working with git, you can either create a new repo or clone an existing one.
-- to clone with SSH, you need to do the following:
+- to clone with SSH, you need to do the following (will be described in more detail in a separate doc):
   - create an SSH key pair (public-private)
   - share the public key with the remote (e.g., github)
   - add the private key to your SSH agent for authentication
@@ -16,8 +16,6 @@ Repos can either be remote or local; local repos are on your computer.
 In this case, remote repos are on github.com.
 
 ## Basic commands
-
-### Starting git
 
 - `git init` allows you to create a new local repo from scratch
 - `git clone` lets you clone a remote repo
@@ -46,7 +44,7 @@ From github.com:arunasurya/academy
    72d79b0..7563e27  master     -> origin/master
 ```
 
-- use `git merge` to merge those changes into the current branch of your local repo
+- use `git merge` to merge those changes into the master branch of your local repo
 ```
 $ git merge
 Auto-merging git.md
