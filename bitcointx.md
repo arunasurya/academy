@@ -22,8 +22,3 @@ A transaction input contains the following:
 - a hash of the previous transaction
 - an index of the current transaction, which always starts at `0`
 - scriptSig or an unlock script 
-
-### Public key cryptography 
-
-- a private-public key pair is needed to send and receive bitcoin
-- the public key is generated from the private key 
