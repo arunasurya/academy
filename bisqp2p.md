@@ -12,6 +12,7 @@ In that case, they will be connected to the Bitcoin network once they start runn
 
 ## Bisq app
 - in order to join the network, you need to [download the Bisq app](https://bisq.network/downloads/).
+- you can learn more about the app on [the Bisq website](https://docs.bisq.network/getting-started.html)
 
 ## Seed nodes
 - every time the Bisq app gets started, your node gets connected to a seed node.
