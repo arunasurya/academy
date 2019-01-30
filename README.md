@@ -4,3 +4,4 @@ This is a step-by-step guide to document my progress in learning technology. It 
 
 - [Terminal basics](terminal.md)
 - [git basics](git.md)
+- [Bisq DAO](BisqDAO.md)
