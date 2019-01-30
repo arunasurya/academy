@@ -7,6 +7,8 @@
 
 ## Introduction
 The Bisq P2P network consists of nodes running the Bisq software. 
+Just like the Bitcoin network, the Bisq P2P network does not have a central server. 
+Rather, all nodes can act as servers or clients.
 Some of them may be full nodes running the Bitcoin Core software while most are not. 
 The latter are connected to the Bitcoin network once they start running the Bisq app.
 
@@ -19,7 +21,8 @@ In order to join the network, you need to [download the Bisq app](https://bisq.n
 
 ## Seed nodes
 - every time the Bisq app gets started, your node gets connected to a seed node.
-- seed nodes run the Bisq software
+- seed nodes run the Bisq software.
+- they connect you to other Bisq nodes.
 
 ## Bisq BSQ explorer
 [The Bisq BSQ Explorer](https://explorer.bisq.network/index.html) is a Bitcoin full node as well as a Bisq node with a web interface around it.
