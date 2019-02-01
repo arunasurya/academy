@@ -21,10 +21,10 @@ A transaction output contains the following:
 - scriptPubKey or a lock script
 
 When you create a transaction output, you set lock conditions (in the lock script). In order to spend that output, one needs to meet those lock conditions. A typical lock condition is as follows:
-- here is a hash of the public key. 
-- provide a public key that hashes to that value as well a digital signature. 
+- here is a hash of the public key 
+- provide a public key that hashes to that value as well a digital signature 
 
-You can mathematically prove that a certain private key that has that corresponding public key was used to create the signature. A message you are signing with your private key is the entire transaction (without the signature).
+You can mathematically prove that a certain private key that has the corresponding public key was used to create the signature. A message you are signing with your private key is the entire transaction (without the signature).
 
 ### Transaction inputs
 
