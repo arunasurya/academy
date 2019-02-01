@@ -8,11 +8,13 @@
 - the sum of all your utxos is the sum of you all the bitcoin you own
 
 If you want to send bitcoin to someone, you need to create a new transaction.
-- you can use one of your utxos as the sole input OR
-- you can use several utxos as inputs 
+- you can use one of your utxos as the sole input if that utxo amount is adequate OR
+- you can use several utxos as inputs if each utxo is too small 
 
 ### Transaction outputs
-Outputs can't be divided. You need to spend whole outputs. For instance, if you have a utxo of 2BTC and only want to send 1BTC to a friend, you need to use all of it as an input to a new transaction. This transaction can then have two outputs, with 1BTC each (minus the miner fee). 
+Outputs can't be divided: you need to spend whole outputs.
+
+Example: Alice has 2BTC in one utxo. If she wants to send 0.5BTC to Bob, she needs to take the entire utxo of 2BTC, send 0.5BTC to Bob and the remainder (1.5BTC) as a change to her new address (minus the miner fee).  
 
 A transaction output contains the following:
 - value (amount in satoshis) 
