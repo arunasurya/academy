@@ -1,9 +1,10 @@
 # Bisq DAO: Core Concepts
 
-In order to understand Bisq DAO, you need to understand certain Bitcoin concepts. 
-To undersstand Bitcoin, you need to understand public key cryptography, which is at the core of Bitcoin.
+In order to understand the Bisq DAO, you need to understand certain Bitcoin concepts. 
 
 ## [Public key cryptography](pkg.md)
+To understand Bitcoin, you need to understand public key cryptography, which is at the core of Bitcoin.
+
 - Private-public key pair
 - Hash functions
 - Digital signatures
