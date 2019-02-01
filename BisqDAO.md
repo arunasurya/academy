@@ -14,11 +14,14 @@ To undersstand Bitcoin, you need to understand public key cryptography, which is
 - Bitcoin blockchain
 - Bitcoin explorer
 
-## Bisq
+## Bisq DAO
 - [P2P network](bisqp2p.md)
 - [BSQ tokens](bsqtokens.md)
 - Governance:
-  - Compensation requests
+  - Making proposals
+    - Compensation requests
+    - Asset listing proposals
+    - Other
   - Voting
   - Bonding
-  - Asset listing
+
