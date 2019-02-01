@@ -11,7 +11,7 @@ To undersstand Bitcoin, you need to understand public key cryptography, which is
 ## Bitcoin
 - [Bitcoin network](btcnetwork.md)
 - [Bitcoin transactions](bitcointx.md)
-- Bitcoin blockchain
+- [Bitcoin blockchain](bitcoinblockchain.md)
 - Bitcoin explorer
 
 ## Bisq DAO
