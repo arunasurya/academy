@@ -1,17 +1,19 @@
 # BSQ Tokens
 
 ## Introduction
-The BSQ token is a colored coin based on the Bitcoin blockchain. 
+The BSQ token is a colored coin based on the Bitcoin blockchain.
 
-2.5BTC are used to create 2.5M BSQ in a genesis transaction. This amount is distributed to past contributors.
-1BSQ = 100 Satoshi.
+## Issuance
+### Genesis Transaction
 
-## Processes
-- Issuance
-  - Genesis Transaction
-  - Decentralized Issuance Transaction
-- Uses
-  - Making proposals
-  - Voting
-  - Trading
-- Burning
+2.5BTC are used to create 2.5M BSQ in the genesis transaction. This amount is distributed to past contributors.
+1BSQ is equal to 100 Satoshi. 
+  
+### Decentralized Issuance Transaction
+
+
+## Burning
+
+### Voting
+
+### Trading
