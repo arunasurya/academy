@@ -2,7 +2,7 @@
 
 ## Introduction
 The BSQ token is a colored coin based on the Bitcoin blockchain. 
-It is used in paying contributors for their work, making various proposals, voting and trading. 
+It is used in paying contributors for their work, making various proposals, bonding, voting and trading. You can find more details on these processes [here](governance.md). 
 
 ## Issuance
 ### Genesis Transaction
