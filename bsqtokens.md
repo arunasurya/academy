@@ -2,7 +2,7 @@
 
 ## Introduction
 The BSQ token is a colored coin based on the Bitcoin blockchain. 
-It is used in paying contributors for their work, making various proposals, bonding, voting and trading. You can find more details on these processes [here](governance.md). 
+It is used in paying contributors for their work, making various proposals, bonding, voting, trading and other activities. You can find more details on these processes [here](governance.md). 
 
 ## Issuance
 ### Genesis Transaction
@@ -19,8 +19,9 @@ The BSQ supply is determined by how much BSQ gets created and destroyed. Issuing
 Since 1BSQ is equal to 100 satoshis, its value cannot get lower than that. Upon the DAO launch, a trader can purchase BSQ from a contributor to use it as a trading fee. The demand for BSQ will affect its price. 
 
 ## Burning
-BSQ is burned when used in form of fees such as voting and trading fees. More precisely, it is used as a miner's fee. 
+BSQ is burned when used in the form of fees. More precisely, it is used as a miner's fee. Burning BSQ benefits Bisq contributors since the BSQ supply is decreased.
 
 ### Voting
+
 
 ### Trading
