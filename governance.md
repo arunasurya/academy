@@ -20,6 +20,7 @@ The voting cycle consists of four phases: proposal phase, blind vote, vote revea
 During the proposal phase, which lasts 25 days, any stakeholder can make proposals such as compensation requests, asset listing proposals and any other proposals. 
 
 #### Blind Vote 
+In the blind vote phase, any stakeholder can vote on any proposal (including their own). As the name suggests, the vote is placed anonymously so that later voters are not affected by the earlier ones.
 
 #### Vote Reveal
 
