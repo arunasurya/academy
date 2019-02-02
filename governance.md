@@ -2,10 +2,7 @@
 
 ## Introduction
 
-## Making proposals
- 
-### Compensation requests
-### Asset listing proposals
+Bisq governance is accomplished in a decentralized way. 
 
 ## Voting
 Any stakeholder can participate in the voting process. 
@@ -21,6 +18,8 @@ The voting cycle consists of four phases: proposal phase, blind vote, vote revea
 
 #### Proposal Phase
 
+##### Compensation requests
+##### Asset listing proposals
 
 #### Blind Vote 
 
