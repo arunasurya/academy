@@ -29,5 +29,4 @@ In order to join the network, you need to [download the Bisq app](https://bisq.n
 - Price nodes fetch data from a single centralized website (currently bitcoinaverage.com) and serve it to Bisq nodes.
 
 ## Bisq BSQ explorer
-[The Bisq BSQ Explorer](https://explorer.bisq.network/index.html) is a Bitcoin full node as well as a Bisq node with a web interface around it.
-- it provides basic info on BSQ transactions.
+[The Bisq BSQ Explorer](https://explorer.bisq.network/index.html) is a Bitcoin full node as well as a Bisq node with a web interface around it. It provides basic info on BSQ transactions.
