@@ -7,7 +7,7 @@ Bisq transactions are basically bitcoin transactions that have some extra data a
 2.5BTC (from a donation) will be used to create 2.5M BSQ in the genesis transaction upon the DAO launch. Since there are 100,000,000 satoshis in 1BTC, 1BSQ is equal to 100 Satoshi. 
 
 ## Voting
-The voting cycle consists of four phases: proposal phase, blind vote, vote reveal and vote result. Each voting cycle will last a total of 30 days and a total of 4380 blocks. A stakeholder participating in each phase of the cycle creates a total of three new bitcoin transactions which appear on the Bitcoin blockchain. Let's take a look at each of these phases and transactions in more detail. You can track these transactions on the Bisq explorer.
+The voting cycle consists of four phases: proposal phase, blind vote, vote reveal and vote result. Each voting cycle will last a total of 30 days and a total of 4380 blocks. A stakeholder participating in each phase of the cycle creates a total of three new bitcoin transactions which appear on the Bitcoin blockchain. Let's take a look at each of these phases and transactions in more detail. You can track these transactions on [the Bisq explorer](https://explorer.bisq.network/index.html).
 
 ### Proposal Phase
 In the proposal phase, a stakeholder creates a proposal transaction.
