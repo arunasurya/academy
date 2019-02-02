@@ -10,7 +10,7 @@ It is used in paying contributors for their work, making various proposals, bond
   
 ### Decentralized Issuance Transaction
 Any contributor can issue new BSQ by submitting a compensation request. 
-The contributor needs to create a new transaction and seed it with the amount of satoshis equal to the amount of BSQ requested. For instance, if I want to earn 1000BSQ, I need to put in 100,000 satoshis, which will be colored into 1000BSQ upon the approval of the request by the voting process. 
+The contributor needs to create a new transaction and seed it with the amount of satoshis equal to the amount of BSQ requested. For instance, if I want to earn 1000BSQ, I need to put in 100,000 satoshis, which will be colored into 1000BSQ upon the approval of the request by the voting process. You can read more about Bisq transactions [here](bisqtx.md)
 
 ## BSQ Supply
 The BSQ supply is determined by how much BSQ gets created and destroyed. Issuing new BSQ increases the supply while burning BSQ decreases it. In addition, the BSQ price can affect the supply.
