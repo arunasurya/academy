@@ -8,7 +8,7 @@ You can find more details on Bisq governance [here](governance.md).
 
 ## Issuance
 ### Genesis Transaction
-2.5BTC (from a donation) will be used to create 2.5M BSQ in the genesis transaction upon the DAO launch. Since there are 100,000,000 satoshis in 1BTC, 1BSQ is equal to 100 Satoshi. You can read more about Bisq transactions [here](bisqtx.md).
+2.5BTC (from a donation) will be used to create 2.5M BSQ in the genesis transaction in the DAO launch. Since there are 100,000,000 satoshis in 1BTC, 1BSQ is equal to 100 Satoshi. You can read more about Bisq transactions [here](bisqtx.md).
   
 ### Decentralized Issuance 
 Any contributor can issue new BSQ by submitting a compensation request. If the request is approved in the voting process, the contributor is awarded the amount of BSQ requested.  
@@ -23,6 +23,7 @@ Since 1BSQ is equal to 100 satoshis, its value cannot get lower than that. Upon 
 BSQ is burned when used in the form of fees. More precisely, it is used as a miner's fee. Burning BSQ benefits Bisq contributors since the BSQ supply is decreased.
 
 ### Voting
-
+BSQ is used by stakeholders in the voting process as the voting stake and voting fee. Your voting weight is determined by how much BSQ you locked in as a stake. Each voter needs to pay a voting fee in BSQ.
 
 ### Trading
+Traders can incetivized to use BSQ as trading fees because they get a significant discount. 
