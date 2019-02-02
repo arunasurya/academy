@@ -19,4 +19,5 @@ To understand Bitcoin, you need to understand public key cryptography, which is 
 - [P2P network](bisqp2p.md)
 - [BSQ tokens](bsqtokens.md)
 - [Governance](governance.md)
+- [Bisq Transactions]
 
