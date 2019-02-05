@@ -3,7 +3,7 @@
 ## Introduction
 In this post, I will provide a general overview of the Bisq ecosystem. At the center of the Bisq ecosystem is the Bisq app, an open-source software that enables you to trade bitcoin for fiat currencies and cryptocurrencies in a decentralized way.
 
-## Bisq peer-to-peer (P2P) Network
+## Bisq Peer-to-peer (P2P) Network
 The Bisq P2P network consists of nodes running the Bisq software. Just like the Bitcoin network, the Bisq P2P network does not have a central server and instead is made up of individual peers.
 
 Some of the Bisq nodes may also be full Bitcoin nodes running the Bitcoin Core software. There are public Bitcoin nodes run by the Bisq community that are available to the Bisq peers. Upon starting the Bisq app, it connects either to a local Bitcoin full node or several public nodes. In addition to Bisq nodes, the network includes several other nodes, each with a specific function.
