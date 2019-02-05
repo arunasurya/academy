@@ -1,7 +1,7 @@
-# An overview of the Bisq ecosystem
+# An overview of the Bisq network
 
 ## Introduction
-If you are into cryptocurrencies, you may have heard of or even used Bisq, a decentralized exchange that enables you to trade bitcoin for fiat currencies and cryptocurrencies. Although Bisq is an open-source software, it is continuously maintained by a team of dedicated people called contributors. Together with the app, the traders and contributors make up the Bisq ecosystem. In this post, I will provide a brief overview of the Bisq ecosystem, starting with its core, the Bisq app.
+If you are into cryptocurrencies, you may be interested in Bisq, a decentralized exchange that enables you to trade bitcoin for fiat currencies and other cryptocurrencies. The Bisq app is open-source software which is maintained and improved by a group of contributors. 
 
 ## Bisq App
 Unlike other cryptocurrency exchanges, Bisq is fully decentralized, meaning that the data is not stored on a central server. If you want to trade, all you need to do is to download and install [the Bisq app](https://bisq.network/downloads/) on your computer, and you become part of the Bisq network. Since all your data is stored locally on your computer, Bisq has no access to your personal data. You need to share specific information only with your trading partner. There is no need for registration or approval from central authority.
