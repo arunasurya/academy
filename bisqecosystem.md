@@ -23,7 +23,9 @@ Price nodes fetch data from a single centralized website (currently bitcoinavera
 TODO: add a schematic
 
 ## Bisq Participants
-The main participants in the Bisq ecosystem are users and contributors. A trader is anyone who trades on Bisq. A contributor is anyone who provides valuable work for Bisq. One can become a contributor by choosing a role from a list of specific roles (e.g. maintainers, operators, ambassadors, etc) or creating their own role.
+The main participants in the Bisq ecosystem are users and contributors. A user is anyone who trades on Bisq. A contributor is anyone who provides valuable work for Bisq. One can become a contributor by choosing a role from a list of specific roles (e.g. maintainers, operators, ambassadors, etc) or creating their own role. 
+
+What makes Bisq unique among other open-source projects is its special way of transfering value from users to contributors.
 
 ## Bisq DAO
 The Bisq app allows you to participate in the Bisq DAO in a self-contained way.
