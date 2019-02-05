@@ -27,8 +27,7 @@ The main participants in the Bisq ecosystem are users and contributors. A trader
 
 ## Bisq DAO
 The Bisq app allows you to participate in the Bisq DAO in a self-contained way.
-Discuss the transfer of value from the users to contributors. 
-
+TODO: Discuss the transfer of value from the users to contributors. Briefly mention BSQ token.
 
 ## More information on Bisq
 You can learn more about the app on [the Bisq website](https://docs.bisq.network/getting-started.html).
