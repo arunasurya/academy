@@ -26,11 +26,9 @@ TODO: add a schematic
 The main participants in the Bisq ecosystem are users and contributors. A trader is anyone who trades on Bisq. A contributor is anyone who provides valuable work for Bisq. One can become a contributor by choosing a role from a list of specific roles (e.g. maintainers, operators, ambassadors, etc) or creating their own role.
 
 ## Bisq DAO
-It allows you to participate in the Bisq DAO in a self-contained way (make proposals, vote, etc).
-
+The Bisq app allows you to participate in the Bisq DAO in a self-contained way.
 Discuss the transfer of value from the users to contributors. 
 
-Introduce Bisq DAO
 
 ## More information on Bisq
 You can learn more about the app on [the Bisq website](https://docs.bisq.network/getting-started.html).
