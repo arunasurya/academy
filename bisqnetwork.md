@@ -1,4 +1,4 @@
-# An overview of the Bisq network
+# An overview of Bisq
 
 ## Introduction
 If you are into cryptocurrencies, you may be interested in Bisq, a decentralized exchange that enables you to trade bitcoin for fiat currencies and other cryptocurrencies. The Bisq app is free/open-source software (FOSS) which is maintained and improved by a group of contributors. In this post, I will give you an overview of Bisq, including the Bisq app, the Bisq network and its participants. I will also talk about the unique way Bisq handles its governance and how it algns incentives of its users with those of the contributors.   
