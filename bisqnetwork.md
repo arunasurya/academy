@@ -18,9 +18,15 @@ Every time the Bisq app gets started, it gets connected to seed nodes. Seed node
 Price nodes fetch data on cryptocurrency prices and serve it to Bisq nodes. Currently, the price nodes fetch this data from a single centralized website, bitcoinaverage.com.
 
 ## Bisq Participants
-The main participants in Bisq are users, arbitrators and contributors. A user is anyone who trades on Bisq. An arbitrator solves any trading disputes between trading partners. A contributor is anyone who provides valuable work for Bisq. One can become a contributor by doing some important work and then filing for a compensation request. Or one can choose a role from a list of specific roles (e.g. maintainers, operators, ambassadors, etc) or even create their own role. 
+The main participants in Bisq are users, arbitrators and contributors. A user is anyone who trades on Bisq. An arbitrator is a person who solves any trading disputes between trading partners. A contributor is anyone who provides valuable work for Bisq. You can become a contributor by doing some important work and then filing for a compensation request. You can also choose a specific role from a list of [roles](https://docs.bisq.network/roles.html) such as maintainers, operators and administrators. You are also free to define your own role that suits your background and strengths. 
+
+## Compensation requests
+Every month a contributor can file a compensation request for the work they have done in the previous month.
 
 What makes Bisq unique among other open-source projects is its special way of transfering value from users to contributors.
+
+## BSQ Token
+
 
 ## Bisq DAO
 The Bisq app allows you to participate in the Bisq DAO in a self-contained way.
