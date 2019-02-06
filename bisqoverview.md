@@ -20,7 +20,7 @@ Price nodes fetch data on cryptocurrency prices and serve it to Bisq nodes. Curr
 ## Bisq Participants
 The main participants in Bisq are users, arbitrators and contributors. A user is anyone who trades on Bisq. An arbitrator is a person who solves any trading disputes between trading partners. A contributor is anyone who provides valuable work for Bisq. You can become a contributor by doing some important work and then filing for a compensation request. You can also choose a specific role from a list of [roles](https://docs.bisq.network/roles.html) such as maintainers, operators and administrators. You are also free to define your own role that suits your background and strengths.
 
-## Compensation Requests
+### Compensation Requests
 Every month a contributor can file a compensation request for the work they have done in the previous month. They get paid in BSQ tokens. 
 
 ## BSQ Token
