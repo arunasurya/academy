@@ -40,13 +40,13 @@ The amount of the compensation request is determined by how much value that work
 It is important to clarify that as of this moment the Bisq DAO has not been launched yet. Any revenue generated from Bisq trades goes to the arbitrators while the contributors are not being paid yet. They can still submit compensation requests for the work they have done, and the amount of their compensation is tracked on a spreadsheet. They will be paid the earned BSQ amount upon the DAO launch. On average, 50,000 new BSQ is issued every month since October 2017.
 
 #### Uncoloring BSQ Tokens
-While new BSQ is created via the genesis transaction and issuance transactions, it can be burned or uncolored in several ways. These include various fees such as trading and voting fees and burned bonds (see below). 
+While new BSQ is created via the genesis transaction and issuance transactions, it can be burned or uncolored in several ways. These include various fees such as trading and voting fees and burned bonds (see below). The uncolored BSQ turns back into BTC which is used as miners' fees. 
 
 ### BSQ Supply
-There will be an initial supply of 2.5M BSQ from the genesis transaction. The subsequent supply will depend on the amount of compensation requests and the usage of BSQ in the form of trading fees. The compensation requests will increase the supply while the trading fees will decrease the supply. Currently, around 50,000 new BSQ is created every month since the end of 2017.
+There will be an initial supply of 2.5M BSQ from the genesis transaction. The subsequent supply will depend on the amount of compensation requests and the usage of BSQ in the form of trading fees. The compensation requests will increase the BSQ supply while the trading fees will lead to its decrease. Currently, around 50,000 new BSQ is created and nominally distributed to about 14 contributors every month since the end of 2017.
 
 ### Trading Fees
-In the future, users will be able to buy BSQ tokens and use them as trading fees which will be heavily discounted compared to current trading fees in BTC. Instead of being directly distributed among the contributors, the trading fees will be uncolored which will lead to the decrease in the total BSQ supply. This means that each BSQ will gain in value which is highly beneficial for stakeholders.
+In the future, users will be able to buy BSQ tokens and use them as trading fees which will be heavily discounted compared to current trading fees in BTC. Instead of being directly distributed among the contributors, the trading fees will be uncolored which will lead to the decrease in the total BSQ supply. This means that each BSQ will gain in value which is highly beneficial for all stakeholders.
 
 ### Stakeholders
 Anyone who holds BSQ tokens is considered a stakeholder. As of this moment, the only way to obtain the tokens is by being a contributor. Thus, those who have contributed most to Bisq have the proportionate amount of the BSQ tokens. 
