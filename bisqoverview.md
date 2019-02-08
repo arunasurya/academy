@@ -37,16 +37,16 @@ Any contributor can issue new BSQ by filing a compensation request at the end of
 
 The amount of the compensation request is determined by how much value that work has added to Bisq. Additional parameters such as an hourly market rate can also be taken into account in determining the amount, but the important point is that the work has to be complete and useful. The contributors are encouraged to break down their work into smaller chunks that can be finished within a month. It is the result that counts, not the process.
 
-It is important to clarify that as of this moment the Bisq DAO has not been launched yet. Any revenue generated from Bisq trades goes to the arbitrators while the contributors are not being paid yet. They can still submit compensation requests for the work they have done, and the amount of their compensation is tracked on a spreadsheet. They will be paid the earned BSQ amount upon the DAO launch. On average, 50,000 new BSQ is issued every month since October 2017.
+It is important to clarify that as of this moment the Bisq DAO has not been launched yet. Any revenue generated from Bisq trades goes to the arbitrators while the contributors are not being paid yet. They can still submit compensation requests for the work they have done, and the amount of their compensation is tracked on a spreadsheet. They will be paid the earned BSQ amount upon the DAO launch. 
 
 #### Uncoloring BSQ Tokens
 While new BSQ is created via the genesis transaction and issuance transactions, it can be burned or uncolored in several ways. These include various fees such as trading and voting fees and burned bonds (see below). The uncolored BSQ turns back into BTC which is used as miners' fees. 
 
 ### BSQ Supply
-There will be an initial supply of 2.5M BSQ from the genesis transaction. The subsequent supply will depend on the amount of compensation requests and the usage of BSQ in the form of trading fees. The compensation requests will increase the BSQ supply while the trading fees will lead to its decrease. Currently, around 50,000 new BSQ is created and nominally distributed to about 14 contributors every month since the end of 2017.
+There will be an initial supply of 2.5M BSQ from the genesis transaction. The subsequent supply will depend on the amount of compensation requests and the usage of BSQ in the form of trading fees. The compensation requests will increase the BSQ supply while the trading fees will lead to its decrease. Currencly, around 50,000 new BSQ is issued every month since October 2017.
 
 ### Trading Fees
-In the future, users will be able to buy BSQ tokens and use them as trading fees which will be heavily discounted compared to current trading fees in BTC. Instead of being directly distributed among the contributors, the trading fees will be uncolored which will lead to the decrease in the total BSQ supply. This means that each BSQ will gain in value which is highly beneficial for all stakeholders.
+In the future, users will be able to buy BSQ tokens and use them as trading fees which will be heavily discounted compared to current trading fees in BTC. Instead of being directly distributed among the contributors, the trading fees will be uncolored which will lead to the decrease in the total BSQ supply. This means that each BSQ will gain in value which is beneficial for all stakeholders.
 
 ### Stakeholders
 Anyone who holds BSQ tokens is considered a stakeholder. As of this moment, the only way to obtain the tokens is by being a contributor. Thus, those who have contributed most to Bisq have the proportionate amount of the BSQ tokens. 
@@ -54,10 +54,10 @@ Anyone who holds BSQ tokens is considered a stakeholder. As of this moment, the 
 The stakeholders are incentivized to maintain Bisq and to participate in its governance to ensure the success of the project. They have the power to decide how many new tokens are issued every month by voting on compensation requests. They also decide if a project should be prioritized or discarded, to increase or decrease various fees, etc.
 
 ### Voting
-Once a contributor submits their compensation request, any stakeholder can vote on that request. This includes the contributor submitting the request if they hold any BSQ. The voting weight for each stakeholder is determined by the amount of BSQ stake used in the voting period. You can either upvote, downvote or place a neutral vote for that request. The stakeholders can vote not only on compensation requests but also on other proposals auch as reimbursement requests or proposals to add or remove an asset on the exchange. The stakeholders are encouraged to take voting seriously and need to pay a small voting fee in BSQ which gets uncolored. 
+Once a contributor submits their compensation request, any stakeholder can vote on that request. This includes the contributor submitting the request if they hold any BSQ. The voting weight for each stakeholder is determined by the amount of BSQ stake used in the voting period. You can either upvote, downvote or place a neutral vote for that request. The stakeholders can also vote on other proposals such as reimbursement requests or proposals to add or remove an asset on the exchange. The stakeholders are encouraged to take voting seriously and need to pay a small voting fee in BSQ which gets uncolored. 
 
 ### Bonding
-Some high stake roles such as Bisq maintainers, seed node operators or price node operators, require a bond in BSQ for the period of exercising that role. This is done as an insurance against any rogue behavior from those role holders. In the event of defection, that bond is burned, i.e., that BSQ amount is uncolored. This decreases the total supply of BSQ which is beneficial for all stakeholders. This should happen rarely and should not significantly affect the BSQ supply. 
+Some high stake roles such as maintainers, seed node operators or price node operators, require a bond in BSQ for the period of exercising that role. This is done as an insurance against any rogue behavior from those role holders. In the event of defection, that bond is burned, i.e., that BSQ amount is uncolored. This decreases the total supply of BSQ which is beneficial for all stakeholders. This should happen rarely and should not significantly affect the BSQ supply. 
 
 ## More information on Bisq
 You can learn more about the app on [the Bisq website](https://docs.bisq.network/getting-started.html).
