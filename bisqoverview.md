@@ -1,4 +1,4 @@
-# A comprehensive overview of Bisq
+# An overview of Bisq
 
 ## Introduction
 If you are into cryptocurrencies, you may be interested in Bisq, a decentralized exchange that enables you to trade bitcoin for fiat currencies and other cryptocurrencies. In this post, I will give you an overview of Bisq, including the Bisq app, the Bisq network and its participants. I will also introduce the concept of the Bisq DAO, a decentralized way of governance and decision-making.   
