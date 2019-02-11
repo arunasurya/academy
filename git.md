@@ -1,4 +1,4 @@
-# git basics
+o# git basics
 
 - git is a distributed revision control system
 - it consists of repos
@@ -78,10 +78,19 @@ Fast-forward
 $ git branch
 * master
 ```
+- to create a new branch on master, use `git checkout -b` followed by a name of the new branch
 
 Before starting any new work, use `git status` to check the status of your repo.
 - in this case, there were no changes on branch git
 ```
+
+Make sure that your branch is up-to-date with the master branch on the remote repo in case you 
+have made changes there that you have forgotton about or someone else has made new changes.
+- you can do it in two ways
+- the first way is to use `git fetch` to see all the new changes in the remote
+- then then type `git merge` to merge all the new changes to your local repo
+- alternatively, you can use `git pull` to fetch and merge the changes in one command
+
 $ git status
 On branch master
 Your branch is up to date with 'origin/master'.
@@ -95,4 +104,7 @@ nothing to commit, working tree clean
 - if you are happy with the changes, it is best to save them in your local repo
 - use `git commit` with an argument `-am` and a simple description of the commit
 - it is best to commit your changes in small chunks as it is easier to track them
+
+- when you create a new file, you can add by using `git add`
+
 
