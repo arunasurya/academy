@@ -63,4 +63,3 @@ Some high stake roles such as maintainers, seed node operators or price node ope
 You can learn more about the app on [the Bisq website](https://docs.bisq.network/getting-started.html).
 For more technical details of the Bisq P2P network, please visit [this blog post by Manfred Karrer](https://bisq.network/blog/new-p2p-network/).
 
-## Join us!
