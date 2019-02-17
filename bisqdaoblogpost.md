@@ -45,7 +45,3 @@ Once a contributor submits their compensation request, any stakeholder can vote 
 
 ### Bonding
 Some high stake roles such as maintainers, seed node operators or price node operators, require a bond in BSQ for the period of exercising that role. This is done as an insurance against any rogue behavior from those role holders. In the event of defection, that bond is burned, i.e., that BSQ amount is uncolored. This decreases the total supply of BSQ which is beneficial for all stakeholders. This should happen rarely and should not significantly affect the BSQ supply. 
-
-## More information on Bisq
-You can learn more about the app on [the Bisq website](https://docs.bisq.network/getting-started.html).
-For more technical details of the Bisq P2P network, please visit [this blog post by Manfred Karrer](https://bisq.network/blog/new-p2p-network/).
