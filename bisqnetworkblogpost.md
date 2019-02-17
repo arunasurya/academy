@@ -1,14 +1,16 @@
 # An overview of the Bisq Network
 
 ## Introduction
-If you are into cryptocurrencies, you may be interested in Bisq, a decentralized exchange that enables you to trade bitcoin for fiat currencies and other cryptocurrencies. In this post, I will give you an overview of the Bisq network.   
+If you are into cryptocurrencies, you may be interested in Bisq, a decentralized exchange that enables you to trade bitcoin for fiat currencies and other cryptocurrencies. In this post, I will give you an overview of the Bisq software and the Bisq network.   
 
 ## Bisq Software
-Bisq is decentralized, meaning that the exchange data such as the order book is not stored on a central server. If you want to trade, it is easy to download and install [the Bisq app](https://bisq.network/downloads/) on your computer. The Bisq app is free/open-source software (FOSS) which is maintained and improved by a group of contributors. By running the app, your computer becomes part of the Bisq network. There is no need for registration or approval from any central authorities, you just download and start the software. It contains an internal BTC wallet.
-
-Since its launch in April 2016, Bisq has been providing free exchange services without any major issues, with the median monthly growth in trades of 50%. It has processed about 22,000+ trades, and has been generating revenue.
+Bisq is decentralized, meaning that the exchange data such as the order book is not stored on a central server. If you want to trade, it is easy to download and install [the Bisq app](https://bisq.network/downloads/) on your computer. The Bisq app is free/open-source software (FOSS) which is maintained and improved by a group of contributors. By running the software, your computer becomes part of the Bisq network. There is no need for registration or approval from any central authorities, you just download and start the software. 
 
 There are many different payment methods that you can use on Bisq. For instance, if you are using MoneyGram to receive USD in exchange for BTC, you need to add information about your MoneyGram account so that your trading partner can send you USD. Bisq does not automatically send the USD from your trading partner to you, it just gives them the information they need to send USD to your MoneyGram account. Since your data is stored locally on your computer, the rest of the network doesn't know the details about your MoneyGram account.
+
+The app contains an internal BTC wallet. Upon starting the app, you are encouraged to write down your seed phrase and backup your wallet data. You are responsible for your own funds since Bisq has no access to them. When you create and publish an order on Bisq, your trading partner gets in touch with you directly. Both of you need to make a security deposit as insurance against fraud by either of you. That deposit is locked in 2-of-3 multisig which includes you, your trading partner and an anonymous Bisq arbitrator, and can only be unlocked if two out of three people agree. In the event of a dispute, an arbitrator investigates the trade and determines the right course of action.   
+
+Since its launch in April 2016, Bisq has been providing free exchange services without any major issues, with the median monthly growth in trades of 50%. It has processed about 22,000+ trades, and has been generating revenue since its launch.
 
 ## Bisq Network
 The Bisq network consists of nodes running the Bisq software. Just like the Bitcoin network, it is a peer-to-peer (P2P) network that does not have a central server and is instead made up of individual peers. Some of the users running Bisq nodes may also run full Bitcoin nodes, typically the Bitcoin Core software. There are public Bitcoin nodes that are run by some contributors. Upon starting, the Bisq app connects to these nodes. If there is a local Bitcoin full node, the Bisq app automatically detects it and connects to it instead. 
