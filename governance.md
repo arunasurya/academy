@@ -11,7 +11,7 @@ That amount is locked in and cannot be used until the end of the voting period.
 You need to pay a voting fee to participate in the process.
 
 ### Voting Weight
-The voting weight is the amount of BSQ you lock in for the duration of the voting period.
+The voting weight is the amount of BSQ you lock for the duration of the voting period. The voting weight is the sum of BSQ used as the voting stake and BSQ earned through contributions. This is done in order to ensure that the voting process is not greatly influenced by a few people who purchased a lot of BSQ and may not be as invested in Bisq as those who earned BSQ.
 
 ### Voting Cycle
 The voting cycle consists of four phases: proposal phase, blind vote, vote reveal and vote result. Each voting cycle will last a total of 30 days and a total of 4380 blocks. 
