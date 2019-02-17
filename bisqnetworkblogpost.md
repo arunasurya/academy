@@ -17,7 +17,7 @@ The Bisq network consists of nodes running the Bisq software. Just like the Bitc
 
 In addition to Bisq nodes, the network includes several other nodes, each with a specific function. Every time the Bisq app gets started, it gets connected to seed nodes. Seed nodes run the Bisq software, and they introduce users to other Bisq nodes. Price nodes fetch data on cryptocurrency prices and serve it to Bisq nodes. Currently, the price nodes fetch the BTC price in fiat from bitcoinaverage.com, and altcoin data from poloniex.com and coinmarketcap.com.
 
-## More information on Bisq
+## More information on the Bisq network
 You can learn more about the Bisq software on [the Bisq website](https://docs.bisq.network/getting-started.html).
 For more technical details of the Bisq P2P network, please visit [this blog post by Manfred Karrer](https://bisq.network/blog/new-p2p-network/).
 
