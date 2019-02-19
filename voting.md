@@ -23,4 +23,3 @@ In the blind vote phase, any stakeholder can vote on any proposal (including the
 
 ### Vote Result
 
-## Bonding
