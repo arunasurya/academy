@@ -1,10 +1,10 @@
 # Voting
 
 ## Introduction
-- Any stakeholder can participate in the voting process including voting on their own proposals. 
+- Any stakeholder (BSQ holder) can vote, including on their own proposals.
 - Your voting weight is determined by the amount of BSQ you use as your stake. 
-- That amount is locked in and cannot be used until the end of the voting period. 
-- You need to pay a voting fee to participate in the process.
+- That amount is locked until the end of the voting period. 
+- You need to pay a voting fee to participate.
 
 ### Voting Weight
 The voting weight is the amount of BSQ you lock for the duration of the voting period. The voting weight is the sum of BSQ used as the voting stake and BSQ earned through contributions. This is done in order to ensure that the voting process is not greatly influenced by a few people who purchased a lot of BSQ and may not be as invested in Bisq as those who earned BSQ.
