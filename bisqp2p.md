@@ -1,11 +1,5 @@
 # Bisq P2P network
 
-## Core concepts
-- Bisq app
-- Seed nodes
-- Price nodes
-- Bisq BSQ explorer
-
 ## Introduction
 The Bisq network consists of nodes running the Bisq software, and is a second layer running on top of the Bitcoin network. Just like [the Bitcoin network](btcnetwork.md), it is a peer-to-peer (P2P) network that does not have a central server and is instead made up of individual peers. Bitcoin transactions on Bisq are validated by a handful of Bitcoin full nodes run by trusted contributors, but you are free to connect your own full node to Bisq as well. Upon starting, the Bisq app connects to these nodes. If there is a local Bitcoin full node, the software automatically detects it and connects to it instead.  
 
