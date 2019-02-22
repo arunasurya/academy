@@ -7,7 +7,7 @@ Bisq transactions are basically [Bitcoin transactions](bitcointx.md) that have s
 Upon the DAO launch, 2.5BTC (from a donation) will be used to create 2.5M BSQ in the genesis transaction and distributed to past contributors. Since there are 100,000,000 satoshis in 1BTC, 1BSQ is equal to 100 Satoshi. The outputs of all the subsequent transactions stemming from the genesis transaction will be interpreted as BSQ on Bisq. The [Bitcoin network](btcnetwork.md) is not aware of this label.  
 
 ## Issuance Transaction 
-Except for the genesis transaction, BSQ issuance is decentralized. Any stakeholder (BSQ holder) can issue new BSQ via an issuance transaction. The newly colored BSQ is accepted by the Bisq network and becomes the contributor's compensation. cccccceulgvebdfgdtuccddgtnheuegjjgtglcnbjbrl
+Except for the genesis transaction, BSQ issuance is decentralized. Any stakeholder (BSQ holder) can issue new BSQ via an issuance transaction. The newly colored BSQ is accepted by the Bisq network and becomes the contributor's compensation.
 The Bitcoin network is not aware of this label and treats it like any other Bitcoin transaction. 
 
 Here is how new BSQ is created via decentralized issuance. I file a compensation request for 1000BSQ. Since 1BSQ is worth 100 satoshis, I need to create a bitcoin transaction with the input of 100,000 satoshis (plus any transaction fees) from my Bisq BTC wallet. If the compensation request is approved, that transaction is interpreted as an issuance transaction and its output, which was previously in BTC, is now 1000BSQ.
