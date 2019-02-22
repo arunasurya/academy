@@ -1,10 +1,10 @@
 # Bisq Transactions
 
 ## Introduction
-Bisq transactions are basically [Bitcoin transactions](bitcointx.md) that have some extra data added to them based on the Bisq script. 
+Bisq transactions are basically [Bitcoin transactions](bitcointx.md) that have some extra data added to them based on the Bisq script. The Bitcoin network is not aware of that data, only [the Bisq network](bisp2p.md). 
 
 ## Genesis Transaction
-Upon DAO launch, 2.5BTC (from a donation) will be used to create 2.5M BSQ  in the genesis transaction and distributed to past contributors. Since there are 100,000,000 satoshis in 1BTC, 1BSQ is equal to 100 Satoshi. The outputs of all the subsequent transactions stemming from the genesis transaction will be interpreted as BSQ on Bisq. The [Bitcoin network](btcnetwork.md) is not aware of this label, only [the Bisq network](bisqnetworkblogpost.md).  
+Upon the DAO launch, 2.5BTC (from a donation) will be used to create 2.5M BSQ in the genesis transaction and distributed to past contributors. Since there are 100,000,000 satoshis in 1BTC, 1BSQ is equal to 100 Satoshi. The outputs of all the subsequent transactions stemming from the genesis transaction will be interpreted as BSQ on Bisq. The [Bitcoin network](btcnetwork.md) is not aware of this label.  
 
 ## Issuance Transaction 
 While the genesis transaction is created only once on Bisq, any stakeholder (BSQ holder) can create a new issuance transaction. The output of the issuance transaction which is the newly colored BSQ that is accepted by the Bisq network and becomes the contributor's compensation. The Bitcoin network is not aware of this particular label and treats it like any other Bitcoin transaction. An issuance transaction is created during the Bisq voting process which happens at regular intervals.  
