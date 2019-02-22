@@ -1,16 +1,14 @@
 # BSQ Tokens
 
 ## Introduction
-At the heart of the Bisq DAO is the BSQ token. The BSQ token is a colored coin based on the Bitcoin blockchain. The main purpose of BSQ tokens is to transfer value from users of Bisq such as traders to contributors who improve Bisq.
+At the heart of the Bisq DAO is the BSQ token. The BSQ token is a colored coin based on the Bitcoin blockchain. It enables BSQ holders (stakeholders) to participate in the Bisq DAO via voting on various proposals made by other stakeholders. The main purpose of BSQ tokens is to transfer value from Bisq traders to contributors who improve Bisq. 
 
-The Bisq software contains the script for coloring and uncoloring the tokens. In addition to the BTC wallet, the software also has a BSQ wallet. There are two ways of issuing BSQ tokens: through the genesis transaction and through decentralized issuance.
+[The Bisq software](bisqsoftware.md) contains the script for coloring and uncoloring the tokens. The software has a BTC and a BSQ wallet. There are two ways of issuing BSQ tokens: through the genesis transaction and through decentralized issuance.
 
 #### Genesis Transaction
-Upon the Bisq DAO, the Bisq developers will create a bitcoin transaction and label it in the Bisq source code as the genesis transaction. The Bisq network will be aware of this label while the Bitcon network will not differentiate it from any other bitcoin transaction. All the subsequent outputs stemming from this transaction will now be colored on the Bisq network. 
+Upon the Bisq DAO, the Bisq developers create a bitcoin transaction and label it in the Bisq source code as the genesis transaction. The Bisq network is aware of this label while the Bitcon network does not differentiate it from any other bitcoin transaction. All the subsequent outputs stemming from this transaction will now be colored on the Bisq network. 
 
-You may know that a bitcoin transaction consists of inputs and outputs. A sum of all unspent transaction outputs (utxo) is the amount of bitcoin you own. The genesis transaction will take a utxo of 2.5BTC (from a donation) as its input to create 2.5M BSQ in its outputs to be distributed to past contributors. Since there are 100M satoshis in 1BTC, each BSQ is equal to 100 satoshis. The value of a BSQ token will be primarily determined by market forces but it cannot be any lower than the amount of bitcoin it is based on.
-
-2.5BTC (from a donation) will be used to create 2.5M BSQ in the genesis transaction in the DAO launch. Since there are 100,000,000 satoshis in 1BTC, 1BSQ is equal to 100 Satoshi. You can read more about Bisq transactions [here](bisqtx.md).
+2.5BTC (from a donation) is used to create 2.5M BSQ in the genesis transaction in the DAO launch. Since there are 100,000,000 satoshis in 1BTC, 1BSQ is equal to 100 Satoshi. You can read more about Bisq transactions [here](bisqtx.md).
 
 #### Decentralized Issuance
 Any contributor can issue new BSQ by filing a compensation request at the end of each month for the work done in the prevous month. Let me give you an example: I file a compensation request for 1000BSQ. Since 1BSQ is worth 100 satoshis, I need to create a bitcoin transaction with the input of 100,000 satoshis (plus any transaction fees) from my Bisq BTC wallet. If the compensation request is approved, that transaction is interpreted as an issuance transaction and its output, which was previously in BTC, is now 1000BSQ.
