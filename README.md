@@ -4,4 +4,4 @@ This is a step-by-step guide to share my own perspective on certain technologies
 
 - [Terminal basics](terminal.md)
 - [git basics](git.md)
-- [Bisq DAO](BisqDAO.md)
+- [Bisq](Bisq.md)
