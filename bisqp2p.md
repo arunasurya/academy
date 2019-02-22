@@ -8,7 +8,7 @@ In order to join the network, you need to [download the Bisq software](https://b
 - It is free/open-source software (FOSS) that enables you to trade bitcoin for fiat currencies and cryptocurrencies.
 - The software has internal BTC and BSQ wallets as well as pricing data for bitcoin and other currencies.
 - It allows you to participate in the Bisq DAO in a self-contained way (make proposals, vote, etc). 
-- You can learn more about the software on [the Bisq website](https://docs.bisq.network/getting-started.html) and in [the Bisq software doc](bisqsoftware.md).
+- You can learn more about the software in [the Bisq software doc](bisqsoftware.md).
 
 ## Seed nodes
 - Every time the Bisq software gets started, it gets connected to seed nodes.
