@@ -1,4 +1,4 @@
-# bisq Software
+# Bisq Software
 
 Bisq is decentralized which means that there is no central component that, if removed, would cause Bisq to fail. For instance, the exchange data such as offers to buy or sell BTC is not stored on any central server. You do not need to go to a central website to trade. Instead, you download and install [the Bisq application](https://bisq.network/downloads/) on your computer. The Bisq app is free/open-source software (FOSS) which is maintained and improved by a network of contributors. By running the software, your computer becomes part of the Bisq network. 
 
