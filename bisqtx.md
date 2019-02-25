@@ -29,7 +29,7 @@ As a contributor, I file a compensation request for 1000BSQ. Since 1BSQ is worth
 ## Blind Vote Transaction
 Any stakeholder who wants to vote needs to create a blind vote transaction. As the name suggests, the voting is done anonymously so that the earlier voters do not influence the later participants. The vote is encrypted and transmitted to other Bisq nodes. Once you create a blind vote transaction, you cannot change it since any change will result in a significant change in the encrypted message. This makes the voters commited to their votes.
 
-### Vote Reveal Transaction
+## Vote Reveal Transaction
 In the vote reveal phase, a vote reveal transaction is created automatically by the Bisq software. The transaction contains a decryption key so that other nodes can read the contents of the vote. All the nodes participating in the vote need to be online to reveal their votes. During this perdiod, the Bisq sofware collects all the voting data in a block, hash it and publish the hash to all the other nodes. The nodes compare the hash with their own hash to check if they had received all the votes. 
 
 ## Proposal Transaction => Issuance Transaction
