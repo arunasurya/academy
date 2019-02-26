@@ -3,12 +3,6 @@
 ## Introduction
 Bisq transactions are basically [Bitcoin transactions](bitcointx.md) that have extra data added to them. The Bitcoin network is not aware of that data, only [the Bisq network](bisp2p.md) is. [The Bisq software](bisqsoftware.md) contains the script for creating Bisq transactions.
 
-## What is a Bitcoin transaction?
-A Bitcoin transaction consists of inputs and outputs. A transaction references the output of the previous transaction in its input. If you want to spend bitcoin, you need to create a new transaction. It can have only one input or several inputs, depending on how much bitcoin you want to spend.
-
-An unspent transaction output, or utxo. A utxo can be spent by using it as an input to a new transaction.   The sum of all your utxos is the sum of you all the bitcoin you own. You need to spend the entire utxo. You can use one of your utxos as the sole input to the new transaction or you can use several utxos as several inputs. When you create a transaction, you specify a lock script that, if unlocked, releases the bitcoin.
-
-
 ## Genesis Transaction
 Upon DAO launch, Bisq developers will take the transaction output of 2.5BTC from a donation to create a new transaction. The input of that transaction is 2.5BTC and the output is 2.5M BSQ. This transaction is labeled on Bisq as **the genesis transaction**. Since there are 100,000,000 satoshis in 1BTC, 1BSQ is equal to 100 satoshis. The outputs of all the subsequent transactions stemming from the genesis transaction will be interpreted as BSQ on Bisq. The [Bitcoin network](btcnetwork.md) is not aware of this label.  
 
