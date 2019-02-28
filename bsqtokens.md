@@ -14,7 +14,7 @@ Upon Bisq DAO launch, the Bisq developers create a bitcoin transaction and label
 Any contributor can issue new BSQ by filing a compensation request at the end of each month for the work done in that month. If the compensation request is approved via voting, the amount of BSQ requested appears in the contributor's BSQ wallet.
 
 ## Uncoloring BSQ Tokens
-BSQ can also be uncolored. The uncolored BSQ is interpreted by the Bisq network as BTC and is used as miner fees. Uncoloring BSQ benefits Bisq contributors since the BSQ supply is decreased making BSQ more scarce. There are several ways in which BSQ can be uncolored.
+BSQ can also be uncolored. The uncolored BSQ is interpreted by the Bisq network as BTC and is used as miner fees. Uncoloring BSQ benefits stakeholders since the BSQ supply is decreased making BSQ more scarce. There are several ways in which BSQ can be uncolored.
 
 ### Trading Fees
 Upon the Bisq DAO launch, users can buy BSQ tokens and use them as trading fees which will be heavily discounted compared to trading fees in BTC. Whenever a trader uses BSQ as fees, that amount is uncolored.
