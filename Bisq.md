@@ -1,6 +1,6 @@
 # Bisq: Core Concepts
 
-This is a collection of documents explaining core concepts related to Bisq including Bitcoin, Bisq DAO and public key crytpography.
+This is a collection of documents explaining core concepts related to Bisq including Bitcoin, Bisq DAO and public key cryptography.
 
 ## [Public key cryptography](pkg.md)
 To understand Bitcoin, you need to understand public key cryptography, which is at the core of Bitcoin.
