@@ -15,7 +15,7 @@ Except for the genesis transaction, BSQ issuance is decentralized. Any stakehold
 [The Bisq voting cycle](voting.md) consists of four phases: proposal phase, blind vote, vote reveal and vote result. A stakeholder participating in each phase of the cycle creates a total of three new Bisq DAO transactions. These transactions are: a proposal transaction, a blind vote transaction and a vote reveal transaction. You can track these transactions on [the Bisq explorer](https://explorer.bisq.network/index.html).  
 
 ## Proposal Transaction
-In the proposal phase of the voting cycle, a stakeholder creates a proposal transaction to make any kind of proposal such as a compensation request, listing or removing an asset on Bisq or changing a fee. There are several reasons why a proposal transaction is needed. The first one is to have a record of that transaction on the Bitcoin blockchain so that the Bisq network can confirm that the transaction has been made and act on it. 
+In the proposal phase of the voting cycle, a stakeholder creates a proposal transaction to make any kind of proposal such as a compensation request, listing or removing an asset on Bisq or changing a fee. The main reason for creating a proposal transaction is to have a timestamp on the Bitcoin blockchain so that the Bisq network can confirm that the transaction has indeed been made at a specific time. 
 
 A stakeholder needs to pay a small proposal fee which discourages maliciously or carelessly overwhelming the network with meaningless transactions. Let's take a look at an example of a proposal transaction, a compensation request.
 
