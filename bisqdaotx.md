@@ -1,7 +1,7 @@
 # Bisq DAO Transactions
 
 ## Introduction
-Bisq transactions are basically Bitcoin transactions that have extra data added to them. The Bitcoin network is not aware of that data, only [the Bisq network](bisqp2p.md) is. [The Bisq software](bisqsoftware.md) contains the script for creating Bisq transactions. You can read more on Bitcoin transactions [here](bitcointx.md).
+Bisq DAO transactions are basically Bitcoin transactions that have extra data added to them. The Bitcoin network is not aware of that data, only [the Bisq network](bisqp2p.md) is. [The Bisq software](bisqsoftware.md) contains the script for creating Bisq DAO transactions. You can read more on Bitcoin transactions [here](bitcointx.md).
 
 ## Genesis Transaction
 Upon DAO launch, Bisq developers will take the transaction output of 2.5BTC from a donation to create a new Bitcoin transaction. This transaction is labeled on Bisq as **the genesis transaction**. While the input of this transaction is 2.5BTC, its outputs are interpreted by the Bisq network as 2.5M BSQ. Since there are 100,000,000 satoshis in 1BTC, 1BSQ is equal to 100 satoshis. The outputs of all the subsequent transactions stemming from the genesis transaction will continue to be interpreted as BSQ on Bisq. The [Bitcoin network](btcnetwork.md) is not aware of this label.  
