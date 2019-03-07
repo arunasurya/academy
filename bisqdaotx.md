@@ -1,4 +1,4 @@
-# Bisq Transactions
+# Bisq DAO Transactions
 
 ## Introduction
 Bisq transactions are basically Bitcoin transactions that have extra data added to them. The Bitcoin network is not aware of that data, only [the Bisq network](bisqp2p.md) is. [The Bisq software](bisqsoftware.md) contains the script for creating Bisq transactions. You can read more on Bitcoin transactions [here](bitcointx.md).
