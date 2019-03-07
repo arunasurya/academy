@@ -13,9 +13,8 @@ If you want to send bitcoin to someone, you need to create a new transaction.
 - you can use one of your utxos as the sole input OR
 - you can use several utxos as inputs 
 
-
 A transaction output contains the following:
-- value or the amount of Satoshis 
+- value or the amount of satoshis 
 - scriptPubKey or a lock script
 
 A transaction input contains the following:
@@ -30,6 +29,5 @@ An unspent transaction output, or utxo. A utxo can be spent by using it as an in
 
 
 ### Public key cryptography 
-
 - a private-public key pair is needed to send and receive bitcoin
 - the public key is generated from the private key 
