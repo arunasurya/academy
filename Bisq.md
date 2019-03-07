@@ -20,7 +20,7 @@ To understand Bitcoin, you need to understand public key cryptography, which is 
 - [P2P network](bisqp2p.md)
 
 ## Bisq DAO
-- [BSQ tokens](bsqtokens.md)
 - [Voting](voting.md)
 - [Bisq DAO transactions](bisqdaotx.md)
+- [BSQ tokens](bsqtokens.md)
 
