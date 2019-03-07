@@ -4,7 +4,7 @@
 Bisq DAO transactions are basically Bitcoin transactions that have extra data added to them. The Bitcoin network is not aware of that data, only [the Bisq network](bisqp2p.md) is. [The Bisq software](bisqsoftware.md) contains the script for creating Bisq DAO transactions. You can read more on Bitcoin transactions [here](bitcointx.md).
 
 ## Genesis Transaction
-Upon DAO launch, Bisq developers will take the transaction output with a certain amount og BTC from a donation to create a new Bitcoin transaction. This transaction is labeled on Bisq as **the genesis transaction**. While the input of this transaction is in BTC, the output is in BSQ. The outputs of all the subsequent transactions stemming from the genesis transaction will continue to be interpreted as BSQ on Bisq. The [Bitcoin network](btcnetwork.md) is not aware of this label.  
+Upon DAO launch, Bisq developers will take the transaction output with a certain amount of BTC from a donation to create a new Bitcoin transaction. This transaction is labeled on Bisq as **the genesis transaction**. While the input of this transaction is in BTC, the output is in BSQ. The outputs of all the subsequent transactions stemming from the genesis transaction will continue to be interpreted as BSQ on Bisq. The [Bitcoin network](btcnetwork.md) is not aware of this label.  
 
 ## Issuance Transaction 
 Except for the genesis transaction, BSQ issuance is decentralized. Any stakeholder (BSQ holder) can issue new BSQ via an issuance transaction. Decentralized issuance is accomplished in the Bisq DAO in monthly voting cycles. 
