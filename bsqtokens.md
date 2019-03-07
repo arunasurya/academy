@@ -6,9 +6,7 @@ At the heart of the Bisq DAO is the BSQ token. The BSQ token is a colored coin b
 [The Bisq software](bisqsoftware.md) contains a script for coloring and uncoloring the tokens as well as a BTC and a BSQ wallet. There are two ways of issuing BSQ tokens: through the genesis transaction and through decentralized issuance.
 
 ## Genesis Transaction
-Upon Bisq DAO launch, the Bisq developers create a bitcoin transaction and label it in the Bisq source code as the genesis transaction. The Bisq network is aware of this label while the Bitcon network does not differentiate it from any other bitcoin transaction. All the subsequent outputs stemming from this transaction will now be colored on the Bisq network. 
-
-2.5BTC (from a donation) is used to create 2.5M BSQ in the genesis transaction. Since there are 100,000,000 satoshis in 1BTC, 1BSQ is 100 satoshis. You can read more about Bisq transactions [here](bisqtx.md).
+Upon Bisq DAO launch, the Bisq developers create a bitcoin transaction and label it in the Bisq source code as the genesis transaction. The Bisq network is aware of this label while the Bitcon network does not differentiate it from any other bitcoin transaction. All the subsequent outputs stemming from this transaction will now be colored on the Bisq network. You can read more about Bisq DAO transactions [here](bisdaoqtx.md).
 
 ## Decentralized Issuance
 Any contributor can issue new BSQ by filing a compensation request at the end of each month for the work done in that month. If the compensation request is approved via voting, the amount of BSQ requested appears in the contributor's BSQ wallet.
@@ -23,12 +21,10 @@ Upon the Bisq DAO launch, users can buy BSQ tokens and use them as trading fees 
 In order to participate in the voting process, a stakeholder needs to pay a voting fee in BSQ which gets uncolored.
 
 ### Burning a bond
-Certain high stake roles require a bond in BSQ which is locked for the duration of that role. If a contributor holding a bonded role abuses their role, the stakeholders can vote to burn that bond, i.e., uncolor BSQ. This is done in extremely rare cases and should not affect the BSQ supply significantly.
+Certain high stake roles require a bond in BSQ which is locked for the duration of that role. If a contributor holding a bonded role abuses their role, the stakeholders can vote to burn that bond, i.e., uncolor the BSQ in the bond. This is done in extremely rare cases and should not affect the BSQ supply significantly.
 
 ## BSQ Supply
-There will be an initial supply of 2.5M BSQ from the genesis transaction. The subsequent supply depends on the amount of compensation requests and the usage of BSQ in the form of trading fees. The compensation requests will increase the BSQ supply while the trading fees will lead to its decrease. 
+There will be an initial supply coming from the genesis transaction. The subsequent supply will depend on the amount of compensation requests and the usage of BSQ in the form of trading fees. The compensation requests will increase the BSQ supply while the trading fees will lead to its decrease. 
 
-## BSQ Value
-Since 1BSQ is equal to 100 satoshis, its value cannot get lower than that. Upon the DAO launch, anyone can purchase BSQ. The demand for BSQ will affect its price. 
 
 
