@@ -1,6 +1,6 @@
 # Academy
 
-This is a step-by-step guide to share my own perspective on certain technologies. It might be valuable to people with no background in technology.
+The aim of this project is to share my learning process and understanding of technology. It can be valuable to people with no technical background. The broad scope of this project includes topics related to Bisq, Bitcoin, git and otherss.
 
 - [Terminal basics](terminal.md)
 - [git basics](git.md)
