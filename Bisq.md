@@ -22,5 +22,5 @@ To understand Bitcoin, you need to understand public key cryptography, which is 
 ## Bisq DAO
 - [BSQ tokens](bsqtokens.md)
 - [Voting](voting.md)
-- [Bisq transactions](bisqtx.md)
+- [Bisq DAO transactions](bisqdaotx.md)
 
