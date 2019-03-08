@@ -4,7 +4,7 @@
 Bisq DAO transactions are basically Bitcoin transactions that have extra data added to them. The Bitcoin network is not aware of that data, only [the Bisq network](bisqp2p.md) is. [The Bisq software](bisqsoftware.md) contains the script for creating Bisq DAO transactions. You can read more on Bitcoin transactions [here](bitcointx.md).
 
 ## Genesis Transaction
-Upon the Bisq DAO launch, Bisq developers will take the transaction output with BTC from a donation to create a new Bitcoin transaction. This transaction is labeled on Bisq as **the genesis transaction**. While the input of this transaction is in BTC, the output is in BSQ. BSQ is [a colored coin based on Bitcoin](bsqtokens.md).
+Upon the Bisq DAO launch, Bisq developers will take the transaction output with BTC from a donation to create a new Bitcoin transaction. This transaction will be labeled on Bisq as **the genesis transaction**. While the input of this transaction is in BTC, the output is in BSQ. BSQ is [a colored coin based on Bitcoin](bsqtokens.md).
 
 The outputs of all the subsequent transactions stemming from the genesis transaction will continue to be interpreted as BSQ on Bisq. The [Bitcoin network](btcnetwork.md) is not aware of this label.  
 
