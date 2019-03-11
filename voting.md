@@ -21,4 +21,6 @@ Each vote is encrypted so that those voters who have voted earlier in the cycle 
 The vote reveal phase lasts 300 blocks or about two days. In the vote reveal phase, the network can see the specifics of the vote. All the nodes participating in that voting cycle need to be online to reveal their votes. The nodes compare the hash with their own hash to check if they had received all the votes.
 
 ### Vote Result
+In the vote reveal phase, a decryption key is sent to the network so that the other nodes can read the contents of the vote. All the nodes participating in the vote need to be online to reveal their votes. The nodes compare the received hash with their own hash to check if they had received all the votes. 
 
+If there is a disparity between the hash produced by your node and that of the other nodes, the hash of the node that has used the largest BSQ stake in the voting cycle will be given priority.
