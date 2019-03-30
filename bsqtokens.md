@@ -6,7 +6,7 @@ At the heart of the Bisq DAO is the BSQ token. The BSQ token is a colored coin b
 [The Bisq software](bisqsoftware.md) contains a script for coloring and uncoloring the tokens as well as a BTC and a BSQ wallet. There are two ways of issuing BSQ tokens: through the genesis transaction and through decentralized issuance.
 
 ## Genesis Transaction
-Upon the Bisq DAO launch, the Bisq developers will create a bitcoin transaction and label it in the Bisq source code as the genesis transaction. The Bisq network is aware of this label while the Bitcon network does not differentiate it from any other bitcoin transaction. All the subsequent outputs stemming from this transaction will now be colored on the Bisq network. You can read more about Bisq DAO transactions [here](bisdaoqtx.md).
+Upon the Bisq DAO launch, the Bisq developers will create a bitcoin transaction and label it in the Bisq source code as **the genesis transaction**. The Bisq network is aware of this label while the Bitcon network does not differentiate it from any other bitcoin transaction. All the subsequent outputs stemming from this transaction will now be colored on the Bisq network. You can read more about Bisq DAO transactions [here](bisdaoqtx.md).
 
 ## Decentralized Issuance
 Any contributor can issue new BSQ by filing a compensation request at the end of each month for the work done in that month. If the compensation request is approved via voting, the amount of BSQ requested appears in the contributor's BSQ wallet.
