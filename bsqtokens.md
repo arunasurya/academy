@@ -21,7 +21,7 @@ Upon the Bisq DAO launch, traders can buy BSQ tokens and use them as trading fee
 In order to participate in the voting process, a stakeholder needs to pay a voting fee in BSQ which gets uncolored.
 
 ### Burning a bond
-Certain high stake roles require a bond in BSQ which is locked for the duration of that role. If a contributor holding the bonded role abuses their role, the stakeholders can vote to burn that bond, i.e., uncolor the BSQ in the bond. This is done in extremely rare cases and should not affect the BSQ supply significantly.
+Certain high stake roles require a bond in certain amount of BSQ (which depends on the role) is locked for the duration of that role. If a contributor holding the bonded role abuses their role, the stakeholders can vote to burn that bond, i.e., uncolor the BSQ in the bond. This is done in extremely rare cases and should not affect the BSQ supply significantly.
 
 ## BSQ Supply
 There will be an initial supply coming from the genesis transaction. The subsequent supply will depend on the amount of compensation requests and the usage of BSQ in the form of trading fees. The compensation requests will increase the BSQ supply while the trading fees will lead to its decrease. 
