@@ -7,7 +7,7 @@
 - You need to pay a voting fee to participate.
 
 ## Voting Cycle
-The voting cycle consists of four phases: the proposal phase, blind vote, vote reveal and vote result. Each voting cycle lasts a total of 4380 Bitcoin blocks which amounts to about 30 days. A stakeholder participating in each phase of the voting cycle creates three Bisq DAO transactions. You can learn more about these transactions [here](bisqdaotx.md). 
+The voting cycle consists of four phases: the proposal phase, blind vote, vote reveal and vote result. Each voting cycle lasts a total of 4380 Bitcoin blocks which amounts to about 30 days. A stakeholder participating in each phase of the voting cycle creates three [Bisq DAO transactions](bisqdaotx.md). 
 
 ### Proposal Phase
 During the proposal phase, which lasts 3630 blocks (~25 days), various proposals such as compensation requests, asset listing proposals, proposals to remove a fee and others can be made by any stakeholder. A participating stakeholder needs to pay a proposal fee for creating each proposal. This is done to discourage malicious or careless proposal making that can overwhelm [the Bisq network](bisqp2p.md).
