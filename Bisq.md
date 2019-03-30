@@ -11,13 +11,13 @@ This is a collection of documents explaining main concepts related to Bisq inclu
 - [Bisq DAO transactions](bisqdaotx.md)
 - [BSQ tokens](bsqtokens.md)
 
-## Bitcoin
+## Bitcoin [WIP]
 - [Bitcoin network](btcnetwork.md)
 - [Bitcoin transactions](bitcointx.md)
 - [Bitcoin blockchain](bitcoinblockchain.md)
 - Bitcoin explorer
 
-## Public-key cryptography
+## Public-key cryptography [WIP]
 - Private-public key pair
 - Hash functions
 - Digital signatures
