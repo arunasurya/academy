@@ -1,4 +1,4 @@
-o# git basics
+# git basics [WIP]
 
 - git is a distributed revision control system
 - it consists of repos
