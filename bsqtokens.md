@@ -15,7 +15,7 @@ Any contributor can issue new BSQ by filing a compensation request at the end of
 BSQ can also be uncolored. The uncolored BSQ is interpreted by the Bisq network as BTC and is used as miner fees. Uncoloring BSQ benefits stakeholders since the BSQ supply is decreased making BSQ more scarce. There are several ways in which BSQ can be uncolored.
 
 ### Trading Fees
-Upon the Bisq DAO launch, Bisq traders can buy BSQ tokens and use them as trading fees which will be heavily discounted compared to trading fees in BTC. Whenever a trader uses BSQ as fees, that amount is uncolored.
+Upon the Bisq DAO launch, traders can buy BSQ tokens and use them as trading fees which will be heavily discounted compared to trading fees in BTC. Whenever a trader uses BSQ as fees, that amount is uncolored.
 
 ### Voting
 In order to participate in the voting process, a stakeholder needs to pay a voting fee in BSQ which gets uncolored.
