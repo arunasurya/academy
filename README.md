@@ -4,5 +4,5 @@ The aim of this project is to share my learning process and understanding of tec
 
 - [Bisq](Bisq.md)
 - [Terminal basics](terminal.md)
-- [git basics](git.md)
+- [git basics - WIP](git.md)
 
