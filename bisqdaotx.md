@@ -20,7 +20,7 @@ In the proposal phase of the voting cycle, a stakeholder creates a proposal tran
 A stakeholder needs to pay a small proposal fee which discourages maliciously or carelessly overwhelming the network with meaningless transactions. Let's take a look at an example of a proposal transaction, a compensation request.
 
 ### Compensation Requests
-When a contributor files a compensation request, they need to create a Bitcoin transaction with the transaction input in BTC. If the compensation request is approved, that transaction is interpreted as **the issuance transaction** and its output, which was previously in BTC, is now in BSQ. That BSQ amount appears in the contributor's BSQ wallet. The Bitcoin network is not aware of this label and treats it like any other Bitcoin transaction.
+When a contributor files a compensation request, they need to create a Bitcoin transaction with the transaction input in BTC. If the compensation request is approved, that transaction is interpreted as **the issuance transaction** and its output is now interprereted as BSQ. That BSQ amount appears in the contributor's BSQ wallet. The Bitcoin network is not aware of this label and treats it like any other Bitcoin transaction.
 
 ## Blind Vote Transaction
 Any stakeholder who wants to vote needs to create a blind vote transaction. Each vote is encrypted so that those voters who have voted earlier in the cycle do not influence those who join later. The encrypted vote is transmitted to other Bisq nodes. Once you create a blind vote transaction, you cannot change your vote since any change will result in a significant change in the encrypted message. This makes the voters commited to their votes. 
