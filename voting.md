@@ -13,7 +13,7 @@ The voting cycle consists of four phases: the proposal phase, blind vote, vote r
 During the proposal phase, which lasts 3630 blocks (~25 days), various proposals such as compensation requests, asset listing proposals, proposals to remove a fee and others can be made by any stakeholder. A participating stakeholder needs to pay a proposal fee for creating each proposal. This is done to discourage malicious or careless proposal making that can overwhelm [the Bisq network](bisqp2p.md).
 
 ### Blind Vote 
-The blind vote phase lasts 450 blocks or about three days. Any stakeholder can vote on any proposal including their own. You can upvote, downvote or decide not to vote on a proposal. The latter is encouraged if you are not acquained with a specific proposal. 
+The blind vote phase lasts 450 blocks or about three days. Any stakeholder can vote on any proposal including their own. You can upvote, downvote or decide not to vote on a proposal. The latter is encouraged if you are not acquainted with a specific proposal. 
 
 Each vote is encrypted so that those who have voted earlier in the cycle do not influence those who join later. The encrypted vote is transmitted to the Bisq network. After receiving the encrypted vote, the participating nodes check if there is a Bitcoin transaction that corresponds to that Bisq DAO transaction. Once you have voted, you cannot change your vote since any change will result in a significant change in the encrypted message. This is to ensure that the voters stay commited to their votes.
 
