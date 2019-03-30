@@ -1,7 +1,7 @@
 # BSQ Tokens
 
 ## Introduction
-At the heart of the Bisq DAO is the BSQ token. The BSQ token is a colored coin based on the Bitcoin blockchain. It enables stakeholders (BSQ holders) to participate in the Bisq DAO in many ways such as making proposals, voting, etc. The main purpose of BSQ tokens is to transfer value from Bisq traders to contributors who improve Bisq. 
+At the heart of the Bisq DAO is the BSQ token. The BSQ token is a colored coin based on the Bitcoin blockchain. It enables stakeholders (BSQ holders) to participate in the Bisq DAO in many ways such as making proposals and voting. The main purpose of BSQ tokens is to transfer value from Bisq traders to contributors who improve Bisq. 
 
 [The Bisq software](bisqsoftware.md) contains a script for coloring and uncoloring the tokens as well as a BTC and a BSQ wallet. There are two ways of issuing BSQ tokens: through the genesis transaction and through decentralized issuance.
 
