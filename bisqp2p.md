@@ -1,4 +1,4 @@
-# Bisq P2P network
+# Bisq P2P Network
 
 ![bisq_network_visualisation](https://user-images.githubusercontent.com/43150241/55291361-5e7a8680-53cd-11e9-8609-afc5965ff1ba.jpg)
 Image from https://github.com/Wimking1987
