@@ -1,6 +1,6 @@
 # Bisq: Main Concepts
 
-This is a collection of documents explaining main concepts related to Bisq including Bitcoin, Bisq DAO and public-key cryptography.
+This is a collection of documents explaining main concepts related to Bisq including Bitcoin, Bisq DAO and public-key cryptography. It is aimed at people with non-technical backgrounds, like myself!
 
 ## Bisq
 - [Bisq software](bisqsoftware.md)
