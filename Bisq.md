@@ -11,6 +11,9 @@ This is a collection of documents explaining main concepts related to Bisq inclu
 - [Bisq DAO transactions](bisqdaotx.md)
 - [BSQ tokens](bsqtokens.md)
 
+## Bisq Inspirations
+- [Bisquette](bisquette.md)
+
 ## Bitcoin [WIP]
 - [Bitcoin network](btcnetwork.md)
 - [Bitcoin transactions](bitcointx.md)
