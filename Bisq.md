@@ -13,14 +13,3 @@ This is a collection of documents explaining main concepts related to Bisq inclu
 
 ## Songs about Bisq
 - [Bisquette](bisquette.md)
-
-## Bitcoin [WIP]
-- [Bitcoin network](btcnetwork.md)
-- [Bitcoin transactions](bitcointx.md)
-- [Bitcoin blockchain](bitcoinblockchain.md)
-- Bitcoin explorer
-
-## Public-key cryptography [WIP]
-- Private-public key pair
-- Hash functions
-- Digital signatures
